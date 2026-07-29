@@ -1,0 +1,10 @@
+node_modules/
+dist/
+private-inputs/
+session-output/
+.student-locale
+.student-session
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
