@@ -2,13 +2,160 @@
 
 **Status: draft.** Not ready to publish. Every number and link needs a check against the current source before this goes live, and anything marked **[verify]** is a known soft spot. Rules on taxes, benefits and health coverage change every year; this draft reflects what the author understood as of October 2026.
 
-This is a list of things that cost little and pay back a lot: more years of life, more money, more time, and fewer legal messes. It is a menu, not a to-do list. Pick one or two items and you have gotten your money's worth. Nobody does all of them, including the author.
+It has two parts. **Part 1** summarizes what the original Chinese guide covers, chapter by chapter, and how well each chapter carries over. **Part 2** is our own list for US readers: the original's advice that still applies, rewritten with local examples and sources, plus what Americans need that the original doesn't cover (health insurance, credit scores, Social Security and more). Notes on Canada are kept where the difference is small; Canada-only items are held in a separate backlog for now.
 
-It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, https://github.com/eternity4719/HowToLiveBetter, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation. This first version sticks to advice that holds in both countries; US-only and Canada-only items will follow separately.
+Part 2 is a list of things that cost little and pay back a lot: more years of life, more money, more time, and fewer legal messes. It is a menu, not a to-do list. Pick one or two items and you have gotten your money's worth. Nobody does all of them, including the author.
+
+It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, https://github.com/eternity4719/HowToLiveBetter, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation.
 
 Nothing here is medical, legal, tax or financial advice for your situation. When an item says "ask a doctor" or "talk to a lawyer," that is the item.
 
 ---
+
+## Emergency numbers
+
+**911** for police, fire and ambulance · **988** for a mental health or suicide crisis (call or text) · **Poison control:** 1-800-222-1222 (US), 1-844-764-7669 (Canada)
+
+---
+
+## Contents
+
+**[Part 1: What the original guide covers](#part-1-what-the-original-guide-covers):** a summary of all 34 chapters.
+
+**[Part 2: Our list for US readers](#part-2-our-list-for-us-readers):**
+
+1. [Stay alive](#1-stay-alive): don't die early, don't die slowly, emergencies, cold and heat, the medicine cabinet
+2. [Health care](#2-health-care): seeing a doctor, US insurance and medical bills, pregnancy and babies, looks
+3. [Money](#3-money): spending, credit, taxes, US retirement and education savings, when money runs out, small business
+4. [Safety and the law](#4-safety-and-the-law): scams and security, your home, travel, the law
+5. [Work and learning](#5-work-and-learning): jobs and layoffs, school and training
+6. [Family](#6-family): relationships, school-age kids, aging parents and after a death
+7. [Mind and time](#7-mind-and-time): energy, time, hard times, and things not worth buying
+8. [Appendix: everyday norms](#appendix-everyday-norms): tipping, sales tax, driving
+
+Items marked **(US)** apply only in the US. Unmarked items apply in both countries, and the "US / Canada" line notes where rules differ or vary by state or province.
+
+---
+
+# Part 1: What the original guide covers
+
+The original, *高性价比人生指南* ("A High-Value Guide to Life"), is a Chinese-language book of **676 tips in 34 chapters**. Every tip says what it costs (money, time, effort, willpower), what it buys back (years of life, money, time and energy, or staying out of legal trouble), and how strong the evidence is: **A** (a specific number from a meta-analysis, a large cohort, a randomized trial, or the text of a law), **B** (supported but no firm number), or **C** (common practice or the author's experience). Within each chapter, tips are sorted by value for the cost. The author is explicit that it's a menu, not a to-do list. Health, legal and insurance content is written for mainland China.
+
+Below is a short summary of each chapter, with a tag for how well it carries over:
+
+- **Universal:** the advice works as is in the US and Canada.
+- **Local version needed:** the idea holds, but the laws, programs or phone numbers are Chinese.
+- **China only:** built on Chinese law or institutions, so Part 2 doesn't carry it over.
+
+### 1. Don't die early (43 tips) · Local version needed
+Cheap ways to avoid preventable death: seat belts front and back, helmets on motorcycles and e-bikes, smoke and carbon monoxide alarms, never eating wild mushrooms, not charging e-bikes indoors, treating high blood pressure, diabetes and hepatitis B checks, HPV and other vaccines, cancer screening (breast, cervical, colon, low-dose CT for heavy smokers), crisis lines, fire extinguishers, and taking warning signs like blood in the urine seriously.
+
+### 2. Don't die slowly (44 tips) · Local version needed
+Long-term habits: quitting smoking (with medication, a set quit date, and quitlines), no smoking at home, cutting sugary drinks, low-sodium potassium salt, brushing and flossing, 7,000 to 8,000 steps a day, strength training, sleep, less processed meat, less alcohol (and not quitting heavy drinking cold turkey), nuts, whole grains, fish, coffee and tea, and cooking with a range hood. Some tips (betel nut, unlicensed bulk peanut oil) are China-specific.
+
+### 3. Don't waste energy (25 tips) · Universal
+Protecting attention and sleep: turn off non-essential notifications, keep a fixed wake time, sleep 7 to 8 hours, no caffeine after 2 p.m., batch email and messages, guard deep-work time, and set realistic expectations when dealing with institutions.
+
+### 4. Don't waste time (18 tips) · Universal
+Turning intentions into "when, where, if-then" plans, setting quit conditions up front, ignoring sunk costs, estimating from past tasks rather than plans, fewer and shorter meetings, and fighting procrastination by changing the environment, not by willpower.
+
+### 5. Don't waste money (46 tips) · Local version needed
+Cancel auto-renewals, skip the lottery and "guaranteed return" pitches, avoid minimum payments and consumer loans (convert any rate to an annual rate first), skip extended warranties, buy low-fee broad index funds, keep 3 to 6 months of emergency savings, buy insurance only for losses you can't absorb, and buy term life insurance for earners. Never buy crypto as an investment. Tax filing, housing-fund withdrawals and pension-account details are Chinese.
+
+### 6. The "don't bother" list (31 tips) · Universal, with a few local swaps
+Things that look smart but aren't: multivitamins, regular fish oil, vitamin D for people who aren't deficient, antioxidant pills, glucosamine for knee arthritis, vitamin C for colds, the idea that willpower "runs out," and asking AI chatbots to diagnose illness or legal problems.
+
+### 7. Living with no money (22 tips) · Local version needed
+What to claim and where to go when broke: unemployment benefits, free labor-complaint channels for unpaid wages, legal aid, emergency shelters, free public job services, and temporary relief funds. All of the programs named are Chinese.
+
+### 8. Don't get yourself in trouble (46 tips) · Local version needed
+Staying out of legal and money disasters: stop and call after a crash, report fraud immediately, never treat a face on video or a voice on the phone as proof of identity, get a lawyer if accused, don't co-sign or guarantee loans, never lend your face scan or a verification code, statutes of limitation, dog-owner liability, and home break-in prevention. The legal details are Chinese.
+
+### 9. Legal red lines (26 tips) · China only
+Everyday acts that are crimes in China: forwarding unverified rumors, "insulting martyrs," sharing content from foreign websites, and more. Parts of it travel: being a money mule, faking loan documents or insurance claims, throwing objects from height, hidden cameras and drones. Part 2 covers those in "Safety and the law."
+
+### 10. Dating and marriage (20 tips) · Local version needed
+Meet more people rather than fixating on one, stop when someone says no, judge interest by behavior, and know that long-distance works fine (the hard part is the first months of living together). Also covers couples therapy and the money side of marriage. Bride price and marriage-registration rules are Chinese.
+
+### 11. Red lines for programmers (19 tips) · China only
+Game cheats, ticket-scalping bots, scraping, wiping databases when you leave, taking source code, freelance work for gambling or scam apps, and Chinese website licensing. The general points (don't access systems without permission, don't take code when you quit, respect open-source licenses) apply anywhere.
+
+### 12. Starting a business (24 tips) · Local version needed
+Only risk money you can lose, never sign personal guarantees (and keep your spouse off them too), choose a limited-liability structure, never be a nominee shareholder, read franchise disclosures, and watch for "store-setup" and "no-inventory" training scams. Registration and tax steps are Chinese.
+
+### 13. Emergencies (44 tips) · Universal, with local phone numbers
+First aid that works anywhere: CPR and AEDs, recognizing stroke (including subtle ones), heart attack and aortic dissection, heavy bleeding and tourniquets, bites, burns (20 minutes of cool running water), anaphylaxis, seizures, low blood sugar, electric shock, carbon monoxide, poisoning, heatstroke, fire, drowning, getting lost, hypothermia, snakebite, earthquakes, lightning, altitude, ticks and infant choking. Emergency numbers are Chinese (120 and 110).
+
+### 14. Accounts and data security (10 tips) · Universal, with local laws
+Two-factor authentication, a unique email password, a phone lock and SIM PIN, what to do in order when a phone is lost, card fraud, reviewing logged-in devices, and your legal right to see and delete your data. The privacy-law details are Chinese.
+
+### 15. Renting and buying (9 tips) · Local version needed
+Write deposit terms into the lease, call the police if a landlord cuts utilities or changes locks, pay rent directly to the landlord, a sale doesn't end your lease, and check ownership and liens before paying.
+
+### 16. Living with chronic illness (9 tips) · Universal, minus insurance details
+Take medicine as prescribed and don't stop when you feel better, follow up on schedule and log your numbers, don't drop treatment for folk remedies, and get long-term prescriptions for stable conditions.
+
+### 17. Elderly family (10 tips) · Local version needed
+Name a guardian in writing while a parent is still sharp, write a will, keep an older person's money in a separate account with two-person sign-off for big spending, give them a ready excuse for high-pressure sellers, avoid "senior investment" and reverse-mortgage scams, and prevent pressure sores and falls.
+
+### 18. Is raising kids worth it (6 tips) · Local version needed
+Count the benefits you can claim, know maternity leave and anti-discrimination rights, and do an honest time-and-money budget in three stages.
+
+### 19. Work, quitting and injury (19 tips) · Local version needed
+Overtime pay, paid vacation, probation rules, severance math, never signing a "voluntary resignation" when you're being let go, keeping evidence, and workplace injury claims. All based on Chinese labor law.
+
+### 20. Newborn care (14 tips) · Universal
+Safe sleep (on the back, firm surface, own bed), the first hepatitis B shot within 24 hours, the full vaccine schedule, exclusive breastfeeding for six months, safe formula temperature, no honey before age 1, vitamin K, and fever warning signs.
+
+### 21. Travel abroad (11 tips) · Local version needed
+Check travel advisories, save consular numbers, know what consulates can and can't do, buy travel medical insurance, treat "high-paying overseas jobs" as scams, and know what to do if your passport is lost.
+
+### 22. How to relax (10 tips) · Universal, with local examples
+Check fire exits at bars, karaoke and escape rooms, ask for prices before ordering, leave if someone offers drugs, never drink anything that left your sight, and for stress, exercise, mindfulness, time with friends and green space.
+
+### 23. Which skills pay (23 tips) · Local version needed
+How to judge whether more schooling pays off, the health returns of education, fake certificates, training subsidies, which skills are hard to automate, and study methods that work (self-testing, spaced and mixed practice; "learning styles" have no evidence).
+
+### 24. Seeing a doctor (12 tips) · Local version needed
+How China's referral and reimbursement system works, keeping copies of your records, ER triage, emergency aid if you can't pay, disability assessment, and never needing to give doctors "red envelope" bribes.
+
+### 25. After a death (10 tips) · Local version needed
+Death certificates, funeral-home rules, autopsy requests, itemized funeral pricing, and claiming the person's remaining pension and housing-fund balances.
+
+### 26. Building a website (11 tips) · China only
+Chinese licensing, hosting registration and payment rules for running a website or platform.
+
+### 27. Pregnancy and birth (17 tips) · Universal clinical advice, local paperwork
+Folic acid before conception, early prenatal care, HIV, syphilis and hepatitis B tests, no smoking or alcohol, low-dose aspirin for high-risk pregnancies, gestational diabetes screening, warning signs, epidurals, and the six-week postpartum checkup. Insurance and birth-registration steps are Chinese.
+
+### 28. Don't harm your body for looks (9 tips) · Universal, with local licensing
+No extreme dieting or purging, check a clinic's license before injections or surgery, know the danger zones for facial fillers, avoid "fast slimming" products and anabolic steroids, get weight-loss drugs only by prescription, and have braces fitted and followed by a real orthodontist.
+
+### 29. After a major blow (13 tips) · Universal, with local hotlines
+Don't be alone in the first days after a death (heart risk spikes), bring someone to a serious diagnosis, keep a routine after a job loss, get professional help after a suicide or violent death, delay irreversible decisions, and never see death as a way out of debt.
+
+### 30. School-age kids (18 tips) · Mostly universal
+Treat sudden, worsening pain as urgent, don't postpone treatment until after exams, report bullying in writing the same day, two hours outdoors daily to prevent nearsightedness, screen-time limits, no hitting or yelling, and avoid "internet addiction" boot camps.
+
+### 31. Paths after 18 (16 tips) · Local version needed
+Chinese military service, civil-service and teacher programs, adult education and gig-work insurance. The idea of comparing paths by their real entry requirements carries over; the programs need US and Canadian equivalents (military, trades, community college).
+
+### 32. Studying abroad (10 tips) · China only
+Written for Chinese students heading to the US, Canada, the UK and Australia (visa status, work-hour limits, degree recognition back home), so it runs backward for readers who already live here.
+
+### 33. Living with disability (20 tips) · Local version needed
+Medical emergencies after spinal injury, suicide risk in the first ten years after disability, caregivers' own health, pressure-relief cushions, cure scams, and the benefits, education rights and guardianship rules that come with a disability certificate.
+
+### 34. Medicine cabinet (11 tips) · Universal, with local drug names
+Don't double up on acetaminophen, no aspirin for feverish kids, ibuprofen risks for older people, no combination cold medicine under 2, no ibuprofen after 20 weeks of pregnancy, a 7-day cap on self-treating with omeprazole, no antibiotics for colds, oral rehydration for diarrhea, and no alcohol with certain antibiotics.
+
+**Overall:** about half the book (chapters 3, 4, 6, 13, 16, 20, 22, 27, 28, 29, 30, 34 and much of 1 and 2) works almost as is. Most of the rest needs local laws and programs. Four chapters (9, 11, 26 and 32) don't carry over.
+
+---
+
+# Part 2: Our list for US readers
+
+This part keeps the original's format and its "menu, not a to-do list" spirit, but every item is rewritten for life in the US, with US (and where it's simple, Canadian) laws, programs and sources.
 
 ## How to read an item
 
@@ -33,14 +180,6 @@ An A grade means "the number is real and checkable," not "this definitely causes
 
 **Who benefits.** Most items pay off for you. Some pay off for your family. A few (CPR, stopping at a crash) mostly help strangers; those items say so and list the risks to you too.
 
----
-
-## Emergency numbers
-
-**911** for police, fire and ambulance · **988** for a mental health or suicide crisis (call or text) · **Poison control:** 1-800-222-1222 (US), 1-844-764-7669 (Canada)
-
----
-
 ## Start here: ten items worth doing this month
 
 All ten have A-grade evidence and cost little or nothing.
@@ -55,21 +194,6 @@ All ten have A-grade evidence and cost little or nothing.
 8. Take your employer's full retirement match. (Money)
 9. Pay credit cards in full every month. (Money)
 10. Test your home for radon. (Safety and the law)
-
----
-
-## Contents
-
-Organized by life area. This version covers only advice that applies in **both** countries. Where the details differ (a hotline number, an age cutoff, a law), the "US / Canada" line spells it out. Country-only items are kept in a separate backlog for later.
-
-1. [Stay alive](#1-stay-alive): don't die early, don't die slowly, emergencies, cold and heat, the medicine cabinet
-2. [Health care](#2-health-care): seeing a doctor, pregnancy and babies, looks
-3. [Money](#3-money): spending, credit, taxes, when money runs out, small business
-4. [Safety and the law](#4-safety-and-the-law): scams and security, your home, travel, the law
-5. [Work and learning](#5-work-and-learning): jobs and layoffs, school and training
-6. [Family](#6-family): relationships, school-age kids, aging parents and after a death
-7. [Mind and time](#7-mind-and-time): energy, time, hard times, and things not worth buying
-8. [Appendix: everyday norms](#appendix-everyday-norms): tipping, sales tax, driving
 
 ---
 
@@ -166,6 +290,13 @@ Things that cost almost nothing and cut your odds of dying from something preven
 - **Evidence:** A
 - **Source:** Sherrington C, et al. (2019). Exercise for preventing falls in older people living in the community. *Cochrane Database of Systematic Reviews*. https://doi.org/10.1002/14651858.CD012424.pub2
 
+#### 13. Wear a helmet when biking, skiing, snowboarding, or riding a scooter or motorcycle
+- **Cost:** $50 to $150 for a helmet.
+- **In plain English:** In a review of 40 studies of 64,000 cyclists, helmets were linked to about 69% lower odds of serious head injury and 65% lower odds of a fatal one.
+- **Evidence:** A
+- **Source:** Olivier J, Creighton P (2017). Bicycle injuries and helmet use: a systematic review and meta-analysis. *International Journal of Epidemiology*. https://doi.org/10.1093/ije/dyw153
+- **Note:** These are odds from mostly observational studies, and the paper has critics.
+
 ### Don't die slowly
 
 Habits that add up over decades.
@@ -209,7 +340,8 @@ Habits that add up over decades.
 - **In plain English:** Severe alcohol withdrawal can cause seizures and can kill. A doctor can manage it safely.
 - **Evidence:** A
 - **Source:** Canadian Centre on Substance Use and Addiction (2023), *Canada's Guidance on Alcohol and Health* ; NIAAA, *Rethinking Drinking*. https://www.rethinkingdrinking.niaaa.nih.gov
-- **US / Canada:** Canada's 2023 guidance says 2 or fewer drinks a week keeps risk low. US dietary guidelines have been looser. [verify current US guidance]
+- **Risk ladder (Canada's 2023 guidance):** 0 drinks a week, no added risk; up to 2, low; 3 to 6, moderate (higher risk of 7 cancers); 7 or more, increasingly high. A standard drink is a 12 oz (341 mL) 5% beer, a 5 oz (142 mL) glass of 12% wine, or 1.5 oz (43 mL) of spirits.
+- **US / Canada:** Canada's guidance is stricter than the US one. US dietary guidelines have been looser. [verify current US guidance]
 
 #### 8. Sleep about 7 hours at regular times
 - **Evidence:** A (observational)
@@ -223,6 +355,31 @@ Habits that add up over decades.
 - **In plain English:** Smoke from western US and Canadian wildfires now reaches the East every summer. Fine particles (PM2.5) are linked to heart and lung problems. A DIY filter fan cuts indoor particles a lot for very little money.
 - **Evidence:** B
 - **Source:** US EPA, *Wildfires and Indoor Air Quality*. https://www.epa.gov/indoor-air-quality-iaq/wildfires-and-indoor-air-quality-iaq ; Environment and Climate Change Canada, Air Quality Health Index.
+
+#### 11. See or call a friend every week, and join one thing that meets regularly
+- **Cost:** An hour or two a week.
+- **In plain English:** Loneliness and social isolation are linked to roughly 26% to 29% higher risk of early death, about as much as smoking up to 15 cigarettes a day. A standing commitment (a team, a class, a faith group, volunteering) does more than good intentions.
+- **Evidence:** A (observational)
+- **Source:** US Surgeon General (2023), *Our Epidemic of Loneliness and Isolation*. https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf ; Holt-Lunstad J, et al. (2015). *Perspectives on Psychological Science*. https://doi.org/10.1177/1745691614568352
+
+#### 12. Sit less: aim for 8 hours or less of sitting a day, and break up long stretches
+- **Cost:** A timer, or standing for phone calls.
+- **In plain English:** Sitting for most of the day is linked to higher death rates, and walking 150 minutes a week doesn't fully cancel it out for people who sit very long hours.
+- **Evidence:** A (observational)
+- **Source:** Canadian Society for Exercise Physiology, *Canadian 24-Hour Movement Guidelines for Adults*. https://csepguidelines.ca ; Ekelund U, et al. (2016). *The Lancet*. https://doi.org/10.1016/S0140-6736(16)30370-1
+
+#### 13. Wear sunscreen and check your skin
+- **Cost:** A bottle of SPF 30+ sunscreen, a hat, and a look at your skin every few months.
+- **In plain English:** Skin cancer is the most common cancer in both countries. Daily sunscreen use halved melanoma in a long-term randomized trial. See a doctor for a spot that's new, changing, bleeding, or looks different from your others.
+- **Evidence:** A
+- **Source:** Green AC, et al. (2011). Reduced melanoma after regular sunscreen use: randomized trial follow-up. *Journal of Clinical Oncology*. https://doi.org/10.1200/JCO.2010.28.7078 ; CDC, *Skin Cancer* ; Canadian Cancer Society.
+- **Note:** Never use tanning beds.
+
+#### 14. Protect your hearing, and get it tested if conversations are getting harder
+- **Cost:** Foam earplugs for loud events and power tools; a hearing test.
+- **In plain English:** Hearing loss in midlife is one of the largest changeable risk factors for dementia. Hearing aids may reduce that risk, and over-the-counter hearing aids are now sold in the US for mild to moderate loss.
+- **Evidence:** B
+- **Source:** Livingston G, et al. (2024). Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. *The Lancet*. https://doi.org/10.1016/S0140-6736(24)01296-0 [verify DOI]
 
 ### Emergencies: what to do first
 
@@ -352,6 +509,40 @@ Habits that add up over decades.
 - **Evidence:** B
 - **Source:** Kessels RPC (2003). Patients' memory for medical information. *Journal of the Royal Society of Medicine*. https://doi.org/10.1177/014107680309600504
 
+### (US) Insurance and medical bills
+
+#### 1. (US) Use the free preventive care your plan already pays for
+- **Cost:** $0 for in-network screenings, checkups, and recommended vaccines on most plans.
+- **In plain English:** Under the Affordable Care Act, most plans must cover recommended preventive services with no copay. Say "preventive visit" when booking. If the doctor also treats a new problem at the same visit, that part may be billed.
+- **Evidence:** A
+- **Source:** HealthCare.gov, *Preventive care benefits for adults*. https://www.healthcare.gov/preventive-care-adults/ [verify after 2025 court rulings on USPSTF]
+
+#### 2. (US) Check that the doctor, lab and hospital are in network before non-emergency care
+- **Cost:** A 5-minute call or website check.
+- **In plain English:** Out-of-network bills can be many times higher. Ask about the anesthesiologist and lab too.
+- **Evidence:** C
+
+#### 3. (US) Know the No Surprises Act: you can't be balance-billed for emergency care or for out-of-network providers at an in-network hospital
+- **Cost:** Free.
+- **In plain English:** If you get a surprise bill, don't pay it right away. Uninsured or self-pay patients are entitled to a written Good Faith Estimate and can dispute a bill that's $400+ above it.
+- **Evidence:** A
+- **Source:** CMS, *No Surprises*. https://www.cms.gov/nosurprises
+
+#### 4. (US) Ask any nonprofit hospital for its financial assistance policy, and ask for an itemized bill
+- **Cost:** A phone call and a form.
+- **In plain English:** Nonprofit hospitals must have written financial assistance policies and must make them available before aggressive collections. Many people who qualify for free or reduced care never apply.
+- **Evidence:** A
+- **Source:** IRS, *Requirements for 501(c)(3) Hospitals Under the Affordable Care Act – Section 501(r)*. https://www.irs.gov/charities-non-profits/charitable-organizations/requirements-for-501c3-hospitals-under-the-affordable-care-act-section-501r
+
+#### 5. (US) Compare the cash price of generic drugs before using insurance
+- **Cost:** A minute on a discount-card site or Cost Plus Drugs.
+- **In plain English:** For many generics, the cash price with a free discount card is lower than your copay.
+- **Evidence:** C
+
+#### 6. (US) If you have a high-deductible plan, fund an HSA; it's the only account that's tax-free going in, growing, and coming out for medical costs
+- **Evidence:** A
+- **Source:** IRS Publication 969. https://www.irs.gov/publications/p969
+
 ### Pregnancy and babies
 
 #### 1. Put babies to sleep alone, on their back, in a crib or bassinet with nothing else in it
@@ -393,6 +584,18 @@ Habits that add up over decades.
 ## 3. Money
 
 ### Don't waste money
+
+**A rough order for your money.** If you're not sure where to start, the common advice in both countries runs in this order:
+
+1. Make a budget that covers rent, food, utilities and minimum payments.
+2. Save a small emergency fund (one month of expenses).
+3. Get your full employer retirement match.
+4. Pay off high-interest debt (credit cards, payday loans).
+5. Grow the emergency fund to 3 to 6 months.
+6. Put money into tax-advantaged accounts (401(k), IRA or HSA in the US; RRSP, TFSA or FHSA in Canada).
+7. Then save for other goals or invest in a regular taxable account.
+
+This is a common rule of thumb, not a law. It comes from CFPB's *Your Money, Your Goals* and the r/personalfinance and r/PersonalFinanceCanada guides.
 
 #### 1. Cancel subscriptions you don't use; set a calendar reminder before every free trial ends
 - **Evidence:** C
@@ -499,6 +702,26 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** A
 - **Source:** CRA requires 6 years from the end of the tax year; IRS guidance ranges from 3 to 7 depending on the situation.
 
+#### 5. (US) Use tax-advantaged retirement accounts in roughly this order: 401(k) up to the match, HSA if eligible, IRA (Roth or traditional), then more 401(k)
+- **Evidence:** C (common planning order; your situation may differ)
+
+### (US) Retirement and education savings
+
+#### 1. (US) Decide when to claim Social Security on purpose; don't default to 62
+- **In plain English:** Claiming at 62 cuts your monthly check by about 30% for life compared with your full retirement age (67 for most people today). Waiting until 70 raises it by about 24%. If you're healthy and can afford to wait, waiting usually pays off if you live past your early 80s. It also raises a surviving spouse's benefit.
+- **Evidence:** A
+- **Source:** SSA, *Retirement Benefits: Benefits Planner*. https://www.ssa.gov/benefits/retirement/planner/agereduction.html [verify percentages]
+
+#### 2. (US) Sign up for Medicare on time around your 65th birthday
+- **In plain English:** If you don't have job-based coverage from a current employer, missing the seven-month window around your 65th birthday adds a permanent 10% surcharge to your Part B premium for each full year you were late.
+- **Evidence:** A
+- **Source:** Medicare.gov, *Avoid penalties*. https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties
+
+#### 3. (US) Saving for a child's education? Use a 529 plan
+- **In plain English:** Growth is tax-free when used for qualified education costs, and many states give a state tax deduction for contributions to their own plan.
+- **Evidence:** A
+- **Source:** SEC Investor.gov, *An Introduction to 529 Plans* ; your state's 529 plan.
+
 ### When money runs out
 
 #### 1. Call or text 211 to find local help with food, rent, utilities and shelter
@@ -534,6 +757,11 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 3. Don't personally guarantee more than you can afford to lose
 - **In plain English:** Forming an LLC or corporation doesn't protect you from a loan or lease you signed a personal guarantee for.
 - **Evidence:** C
+
+#### 4. (US) Read the Franchise Disclosure Document, and have a lawyer read it, before buying a franchise
+- **In plain English:** Franchisors must give it to you at least 14 days before you sign or pay. Item 19 (earnings claims) and Item 20 (how many outlets closed) are the parts to read twice.
+- **Evidence:** A
+- **Source:** FTC, *Franchise Rule*.
 
 ---
 
@@ -691,6 +919,11 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** A
 - **Source:** US Department of Labor, *FMLA* ; Service Canada, *EI maternity and parental benefits*.
 
+#### 5. (US) Lost job-based health coverage? Compare the ACA Marketplace with COBRA before choosing
+- **In plain English:** Losing coverage gives you a 60-day window to enroll in a Marketplace plan, which is often far cheaper than COBRA after subsidies.
+- **Evidence:** A
+- **Source:** HealthCare.gov, *Special Enrollment Period*.
+
 ### School, training and early adulthood
 
 #### 1. Before paying for any program, look up what its graduates actually earn
@@ -703,6 +936,17 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **In plain English:** US: most hourly workers ("non-exempt") get 1.5 times pay after 40 hours a week. Canada: the threshold and rate depend on your province (for example, 44 hours in Ontario).
 - **Evidence:** A
 - **Source:** US Department of Labor, *Fair Labor Standards Act* ; provincial employment standards.
+
+#### 3. (US) Men aged 18 to 25 must register with Selective Service
+- **Cost:** Five minutes online.
+- **In plain English:** Not registering can block federal jobs and some state benefits later.
+- **Evidence:** A
+- **Source:** Selective Service System, https://www.sss.gov
+
+#### 4. (US) For federal student loans, use the official tools and never pay a company to "enroll" you in forgiveness
+- **In plain English:** Repayment plans changed in 2025 and are still changing. Everything a paid "debt relief" company does, you can do for free at studentaid.gov.
+- **Evidence:** A
+- **Source:** Federal Student Aid, https://studentaid.gov [verify current plan names]
 
 ---
 
