@@ -217,10 +217,12 @@ All scores 0–100. Every score stores human-readable `reasons` (the dashboard s
 ### M5 — Outreach letters (2 days)
 - Jinja2 letter template: short, personal, no pressure ("thinking about what's next for the business?"), references one true specific detail (years in business, niche), includes opt-out instructions and operator contact.
 - LLM drafts the one personalized paragraph; operator approves in dashboard before PDF generation.
-- Letter languages: `en`, `en+zh_hant` (bilingual, for owners whose names/signals suggest
-  Hong Kong origin — written Traditional Chinese is readable by Cantonese speakers), and
-  `en+zh_hans`. Language is chosen by the operator per campaign, never inferred from
-  ethnicity automatically without operator review. CJK fonts (Noto Sans CJK) embedded in PDFs.
+- Letter languages: `en`, `en+zh_hant`, `en+zh_hans`. Language comes only from
+  **business-level facts** — the business's own Chinese-language website/signage/listing, a
+  Chinese-language source record, or the owner's stated preference. **Never infer ethnicity
+  or language from a person's name** (privacy and human-rights risk; see
+  `sourcing-channels-tech-and-law.md`). Default is English. CJK fonts (Noto Sans CJK)
+  embedded in PDFs.
 - `mail_provider.py`: `DryRunProvider` (writes PDFs to `out/letters/`) and `PostGridProvider`.
 - DNC check before generation and before sending.
 - ✅ `dealsource letters --campaign c1 --top 200 --dry-run` produces 200 PDFs + a CSV manifest; DNC entries are excluded; each send logged.
