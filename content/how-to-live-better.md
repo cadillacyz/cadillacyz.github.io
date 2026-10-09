@@ -1115,4 +1115,4 @@ These aren't about evidence. They're about avoiding friction for people new to N
 
 ## License and attribution
 
-This draft is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719 (https://github.com/eternity4719/HowToLiveBetter), used under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Changes: selected and rewritten for US and Canadian readers in English; most China-specific items removed; new items added on US and Canadian health coverage, credit, taxes, tipping, firearms, opioids, wildfire smoke, employment law and everyday norms. Based on the upstream repository as of October 9, 2026. This adaptation is also offered under CC BY 4.0.
+Adapted from [How to Live Better](https://github.com/eternity4719/HowToLiveBetter) by eternity4719, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Rewritten and expanded for US readers. This version is also offered under CC BY 4.0.
