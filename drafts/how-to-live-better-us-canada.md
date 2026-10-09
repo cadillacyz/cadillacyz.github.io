@@ -4,7 +4,7 @@
 
 This is a list of things that cost little and pay back a lot: more years of life, more money, more time, and fewer legal messes. It is a menu, not a to-do list. Pick one or two items and you have gotten your money's worth. Nobody does all of them, including the author.
 
-It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, https://github.com/eternity4719/HowToLiveBetter, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation.
+It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, https://github.com/eternity4719/HowToLiveBetter, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation. This first version sticks to advice that holds in both countries; US-only and Canada-only items will follow separately.
 
 Nothing here is medical, legal, tax or financial advice for your situation. When an item says "ask a doctor" or "talk to a lawyer," that is the item.
 
@@ -54,20 +54,20 @@ All ten have A-grade evidence and cost little or nothing.
 7. Quit smoking with medication, not willpower alone. (Stay alive)
 8. Take your employer's full retirement match. (Money)
 9. Pay credit cards in full every month. (Money)
-10. Freeze your credit. (Money)
+10. Test your home for radon. (Safety and the law)
 
 ---
 
 ## Contents
 
-Organized by life area. Items marked **(US)** or **(Canada)** apply to one country. Unmarked items apply to both, and the "US / Canada" line notes where rules differ or vary by state or province.
+Organized by life area. This version covers only advice that applies in **both** countries. Where the details differ (a hotline number, an age cutoff, a law), the "US / Canada" line spells it out. Country-only items are kept in a separate backlog for later.
 
-1. [Stay alive](#1-stay-alive): don't die early, don't die slowly, emergencies, the medicine cabinet
-2. [Health care](#2-health-care): coverage and bills, pregnancy and babies
+1. [Stay alive](#1-stay-alive): don't die early, don't die slowly, emergencies, cold and heat, the medicine cabinet
+2. [Health care](#2-health-care): seeing a doctor, pregnancy and babies, looks
 3. [Money](#3-money): spending, credit, taxes, when money runs out, small business
-4. [Safety and the law](#4-safety-and-the-law): scams and security, housing, the law
+4. [Safety and the law](#4-safety-and-the-law): scams and security, your home, travel, the law
 5. [Work and learning](#5-work-and-learning): jobs and layoffs, school and training
-6. [Family](#6-family): aging parents and after a death
+6. [Family](#6-family): relationships, school-age kids, aging parents and after a death
 7. [Mind and time](#7-mind-and-time): energy, time, hard times, and things not worth buying
 8. [Appendix: everyday norms](#appendix-everyday-norms): tipping, sales tax, driving
 
@@ -274,6 +274,26 @@ Habits that add up over decades.
 - **Evidence:** A
 - **Source:** CDC, *Rabies*.
 
+### Weather: cold and heat
+
+#### 1. Put winter tires on if you live where it snows, and keep a winter kit in the car
+- **Cost:** About $600 to $1,200 for a set, which lasts several seasons; a kit with a blanket, shovel, scraper, snacks and a phone charger.
+- **In plain English:** All-season tires lose much of their grip below about 45°F (7°C). Winter tires cut stopping distances on snow and ice and are linked to fewer crashes. If you get stuck, stay with the car, keep the tailpipe clear of snow, and run the engine only in short bursts.
+- **Evidence:** B
+- **Source:** Transport Canada, *Winter driving* ; Quebec's Highway Safety Code (winter tires required December 1 to March 15). [verify crash-reduction figures]
+- **US / Canada:** Required by law in Quebec; British Columbia requires them (or chains) on many highways in winter.
+
+#### 2. In extreme cold, cover skin and know the signs of frostbite and hypothermia
+- **In plain English:** Frostbite can start in minutes at wind chills around -18°F (-28°C). Shivering, slurred speech and clumsiness are hypothermia; get the person warm and dry, and call 911 if they get confused.
+- **Evidence:** B
+- **Source:** CDC, *Winter Weather: Frostbite and Hypothermia* ; Environment and Climate Change Canada, *Wind chill index*.
+
+#### 3. In a heat wave, check on older neighbors and people living alone
+- **Cost:** A phone call or knock.
+- **In plain English:** Most heat deaths are older people alone in homes without air conditioning. In the 2021 heat dome in British Columbia, hundreds of people died, most of them older and alone indoors. Cooling centers, a cool shower, and a ride to somewhere air-conditioned save lives.
+- **Evidence:** A
+- **Source:** BC Coroners Service (2022), *Extreme Heat and Human Mortality: A Review of Heat-Related Deaths in B.C. in Summer 2021* ; CDC, *Heat and Health*.
+
 ### The medicine cabinet
 
 #### 1. Don't double up on acetaminophen (Tylenol); check every cold and flu product's label for it
@@ -303,60 +323,34 @@ Habits that add up over decades.
 
 ## 2. Health care
 
-### Health care without going broke
+### Seeing a doctor
 
-#### 1. (US) Use the free preventive care your plan already pays for
-- **Cost:** $0 for in-network screenings, checkups, and recommended vaccines on most plans.
-- **In plain English:** Under the Affordable Care Act, most plans must cover recommended preventive services with no copay. Say "preventive visit" when booking. If the doctor also treats a new problem at the same visit, that part may be billed.
-- **Evidence:** A
-- **Source:** HealthCare.gov, *Preventive care benefits for adults*. https://www.healthcare.gov/preventive-care-adults/ [verify after 2025 court rulings on USPSTF]
-
-#### 2. (US) Check that the doctor, lab and hospital are in network before non-emergency care
-- **Cost:** A 5-minute call or website check.
-- **In plain English:** Out-of-network bills can be many times higher. Ask about the anesthesiologist and lab too.
-- **Evidence:** C
-
-#### 3. (US) Know the No Surprises Act: you can't be balance-billed for emergency care or for out-of-network providers at an in-network hospital
-- **Cost:** Free.
-- **In plain English:** If you get a surprise bill, don't pay it right away. Uninsured or self-pay patients are entitled to a written Good Faith Estimate and can dispute a bill that's $400+ above it.
-- **Evidence:** A
-- **Source:** CMS, *No Surprises*. https://www.cms.gov/nosurprises
-
-#### 4. (US) Ask any nonprofit hospital for its financial assistance policy, and ask for an itemized bill
-- **Cost:** A phone call and a form.
-- **In plain English:** Nonprofit hospitals must have written financial assistance policies and must make them available before aggressive collections. Many people who qualify for free or reduced care never apply.
-- **Evidence:** A
-- **Source:** IRS, *Requirements for 501(c)(3) Hospitals Under the Affordable Care Act – Section 501(r)*. https://www.irs.gov/charities-non-profits/charitable-organizations/requirements-for-501c3-hospitals-under-the-affordable-care-act-section-501r
-
-#### 5. (US) Compare the cash price of generic drugs before using insurance
-- **Cost:** A minute on a discount-card site or Cost Plus Drugs.
-- **In plain English:** For many generics, the cash price with a free discount card is lower than your copay.
-- **Evidence:** C
-
-#### 6. (US) If you have a high-deductible plan, fund an HSA; it's the only account that's tax-free going in, growing, and coming out for medical costs
-- **Evidence:** A
-- **Source:** IRS Publication 969. https://www.irs.gov/publications/p969
-
-#### 7. (Canada) Apply for your provincial health card the day you arrive or move, and cover any waiting period
-- **Cost:** Paperwork; private coverage for the gap.
-- **In plain English:** Some provinces make newcomers and people moving from another province wait up to three months. Another province's card usually covers you during that gap if you're moving within Canada.
-- **Evidence:** A
-- **Source:** Your provincial health ministry. [verify which provinces still have a wait]
-
-#### 8. (Canada) Use 811 before going to the ER for non-urgent problems
-- **Cost:** Free.
-- **In plain English:** A nurse can tell you whether to go to the ER, a walk-in clinic, or wait. ER waits for minor problems can be many hours.
-- **Evidence:** C
-- **US / Canada:** Available in most provinces and territories. US insurers often have a free nurse line on the back of your card.
-
-#### 9. (Canada) Check whether you qualify for the Canadian Dental Care Plan and provincial drug coverage
-- **In plain English:** If your family income is under $90,000 and you have no dental insurance, the federal plan may cover cleanings and fillings. Provinces cover prescriptions for some groups (seniors, kids, low income).
-- **Evidence:** A
-- **Source:** Government of Canada, *Canadian Dental Care Plan*. https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html
-
-#### 10. Keep a one-page list of your diagnoses, meds and allergies on your phone
+#### 1. Keep a one-page list of your diagnoses, meds and allergies on your phone
 - **Cost:** 15 minutes.
 - **Evidence:** C
+
+#### 2. Get a regular primary care clinician, even if you feel fine
+- **Cost:** Time to find one. In the US, a free preventive visit on most plans; in Canada, joining your province's family doctor wait list.
+- **In plain English:** Having a regular doctor or nurse practitioner is linked to lower death rates and fewer ER visits. They also catch slow problems like blood pressure and diabetes that urgent care and walk-in clinics miss.
+- **Evidence:** A (observational)
+- **Source:** Basu S, et al. (2019). Association of Primary Care Physician Supply With Population Mortality in the United States. *JAMA Internal Medicine*. https://doi.org/10.1001/jamainternmed.2018.7624
+- **US / Canada:** In Canada, sign up with your province's patient registry (for example, Health Care Connect in Ontario). [verify registry names]
+
+#### 3. Take long-term meds exactly as prescribed, and ask before stopping
+- **Cost:** A pill organizer or phone reminder.
+- **In plain English:** Skipping or stopping blood pressure, cholesterol or diabetes medicine is common and is linked to more heart attacks, strokes and deaths. If a side effect or cost is the problem, there's usually another option. Ask.
+- **Evidence:** A (observational)
+- **Source:** Chowdhury R, et al. (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. *European Heart Journal*. https://doi.org/10.1093/eurheartj/eht295
+
+#### 4. Ask for generics, and ask whether a test will change what happens next
+- **In plain English:** Generics must match the brand-name drug's active ingredient and strength and are much cheaper. Before an extra scan or test, asking "Would the result change my treatment?" avoids a lot of follow-up tests chasing harmless findings.
+- **Evidence:** A
+- **Source:** FDA, *Generic Drugs: Questions & Answers* ; Health Canada, *Generic drugs* ; Choosing Wisely (US) and Choosing Wisely Canada.
+
+#### 5. Bring someone with you to big appointments, and write down what the doctor says
+- **In plain English:** People forget a large share of what they're told at medical visits, especially after bad news.
+- **Evidence:** B
+- **Source:** Kessels RPC (2003). Patients' memory for medical information. *Journal of the Royal Society of Medicine*. https://doi.org/10.1177/014107680309600504
 
 ### Pregnancy and babies
 
@@ -376,6 +370,23 @@ Habits that add up over decades.
 - **In plain English:** Schools and daycares will ask for it, and it's hard to rebuild later.
 - **Evidence:** A
 - **Source:** Your provincial immunization schedule ; CDC child schedule. [verify current US schedule]
+
+### Don't harm your body for looks
+
+#### 1. Get weight-loss drugs (like semaglutide) only through a licensed prescriber and a real pharmacy
+- **In plain English:** Counterfeit and unregulated versions sold online or by some med spas have caused overdoses and hospitalizations. A real prescriber also checks for conditions where these drugs are risky.
+- **Evidence:** A
+- **Source:** FDA, *FDA's Concerns with Unapproved GLP-1 Drugs Used for Weight Loss* ; Health Canada advisories on unauthorized semaglutide.
+
+#### 2. Check that whoever does injections, fillers or lasers on you is licensed
+- **In plain English:** Filler injected into the wrong blood vessel can cause blindness or skin death. Look up the person on your state medical board or provincial college site, and ask who handles complications.
+- **Evidence:** B
+- **Source:** FDA, *Dermal Fillers (Soft Tissue Fillers)* ; provincial colleges of physicians and surgeons.
+
+#### 3. Steer clear of extreme diets and "anabolic" supplements
+- **In plain English:** Very low-calorie diets without medical supervision can cause gallstones, heart rhythm problems and eating disorders. Bodybuilding products sold as supplements sometimes contain steroids or banned drugs.
+- **Evidence:** B
+- **Source:** FDA, *Tainted Products Marketed as Dietary Supplements* (database).
 
 ---
 
@@ -479,20 +490,12 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** A
 - **Source:** IRS Free File and VITA (US), https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers ; CRA Community Volunteer Income Tax Program (Canada).
 
-#### 3. (US) Use tax-advantaged retirement accounts in roughly this order: 401(k) up to the match, HSA if eligible, IRA (Roth or traditional), then more 401(k)
-- **Evidence:** C (common planning order; your situation may differ)
-
-#### 4. (Canada) Use your TFSA, RRSP and FHSA on purpose
-- **In plain English:** TFSA: tax-free growth, withdraw anytime, room carries forward. RRSP: deduction now, taxed later, best when your income now is higher than in retirement. FHSA: deduction now *and* tax-free out for a first home; up to $8,000 a year, $40,000 lifetime.
-- **Evidence:** A
-- **Source:** CRA, *First Home Savings Account* ; *Tax-Free Savings Account* ; *RRSPs*.
-
-#### 5. Never pay the IRS or CRA in gift cards, crypto or wire transfers to someone who called you
+#### 3. Never pay the IRS or CRA in gift cards, crypto or wire transfers to someone who called you
 - **In plain English:** Neither agency calls threatening arrest or demanding gift cards. Hang up and call the number on the official website.
 - **Evidence:** A
 - **Source:** IRS, *Tax Scams* ; CRA, *Scams and fraud*.
 
-#### 6. Keep tax records for at least 6 years (Canada) or 3 to 7 years (US)
+#### 4. Keep tax records for at least 6 years (Canada) or 3 to 7 years (US)
 - **Evidence:** A
 - **Source:** CRA requires 6 years from the end of the tax year; IRS guidance ranges from 3 to 7 depending on the situation.
 
@@ -528,12 +531,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** A
 - **Source:** CRA, *When to register for and start charging the GST/HST* ; your state's department of revenue.
 
-#### 3. (US) Read the Franchise Disclosure Document, and have a lawyer read it, before buying a franchise
-- **In plain English:** Franchisors must give it to you at least 14 days before you sign or pay. Item 19 (earnings claims) and Item 20 (how many outlets closed) are the parts to read twice.
-- **Evidence:** A
-- **Source:** FTC, *Franchise Rule*.
-
-#### 4. Don't personally guarantee more than you can afford to lose
+#### 3. Don't personally guarantee more than you can afford to lose
 - **In plain English:** Forming an LLC or corporation doesn't protect you from a loan or lease you signed a personal guarantee for.
 - **Evidence:** C
 
@@ -574,7 +572,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** C
 - **US / Canada:** In Canada, many businesses legally can't refuse service just because you won't give your SIN. [verify]
 
-### Renting and buying a home
+### Your home
 
 #### 1. Photograph or video every room at move-in and move-out
 - **In plain English:** It's the cheapest way to get your security deposit back.
@@ -597,6 +595,52 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 
 #### 5. Budget the full cost of owning, not just the mortgage
 - **In plain English:** Property tax, insurance, HOA or condo fees, and maintenance (a common rule of thumb is 1% of the home's value a year).
+- **Evidence:** C
+
+#### 6. Test your home for radon
+- **Cost:** A $15 to $50 test kit and a few months of waiting (long-term tests are more accurate).
+- **In plain English:** Radon is an invisible, odorless gas from the ground. It's the leading cause of lung cancer in people who have never smoked. High levels are common in parts of both countries and can't be guessed from your neighbor's house. Fixing it (a vent pipe and fan) usually costs a few thousand dollars.
+- **Evidence:** A
+- **Source:** US EPA, *A Citizen's Guide to Radon*. https://www.epa.gov/radon ; Health Canada, *Radon*. https://www.canada.ca/en/health-canada/services/environmental-workplace-health/radiation/radon.html
+- **US / Canada:** The action level is 4 pCi/L in the US and 200 Bq/m³ in Canada (Canada's is slightly stricter).
+
+#### 7. In an older home, assume the paint has lead until tested, especially with kids
+- **Cost:** A test kit, or hiring a certified renovator for sanding and demolition.
+- **In plain English:** Lead paint is common in homes built before 1978 (US) and before about 1990 (Canada). Dust from sanding, scraping or chipping windows is the main way kids get poisoned. Lead harms children's brains permanently, and no safe level is known.
+- **Evidence:** A
+- **Source:** CDC, *Childhood Lead Poisoning Prevention* ; Health Canada, *Lead and health*.
+
+#### 8. Check whether your home insurance covers flooding; it usually doesn't by default
+- **Cost:** A call to your insurer.
+- **In plain English:** Standard home and renters policies in both countries usually exclude flooding from rivers, storms and overland water. Sewer backup is often a separate add-on too. Find out before the water does.
+- **Evidence:** A
+- **Source:** FEMA, *National Flood Insurance Program* https://www.floodsmart.gov ; Insurance Bureau of Canada, *Flood insurance*.
+
+#### 9. Keep a running inventory of what you own
+- **Cost:** A 10-minute video walk-through of each room once a year.
+- **In plain English:** After a fire, flood or burglary, insurers pay for what you can show you had.
+- **Evidence:** C
+
+### Travel abroad
+
+#### 1. Buy travel medical insurance before leaving the country, including short trips across the border
+- **Cost:** Often a few dollars a day; check whether a credit card already includes it.
+- **In plain English:** US health plans and Canadian provincial plans pay little or nothing for care abroad. A hospital stay in the US can cost a Canadian tens of thousands of dollars, and the same goes for Americans in many countries.
+- **Evidence:** A
+- **Source:** Government of Canada, *Travel insurance* https://travel.gc.ca/travelling/health-safety/insurance ; US Department of State, *Insurance Coverage Overseas*.
+
+#### 2. Register your trip with your government and check its travel advisory
+- **Cost:** Five minutes.
+- **In plain English:** If there's a disaster, unrest or a family emergency, your embassy can find you. Advisories also flag places your travel insurance may not cover.
+- **Evidence:** C
+- **Source:** US: Smart Traveler Enrollment Program (STEP), https://step.state.gov ; Canada: Registration of Canadians Abroad, https://travel.gc.ca/travelling/registration
+
+#### 3. Know what your embassy can't do
+- **In plain English:** Consulates can replace a passport, contact family, give a list of local lawyers and visit you in jail. They can't get you out of jail, pay your bills or override local law.
+- **Evidence:** A
+- **Source:** US Department of State, *Arrest or Detention of a U.S. Citizen Abroad* ; Global Affairs Canada, *A Guide for Canadians Imprisoned Abroad*.
+
+#### 4. Keep a photo of your passport and a backup card separate from your wallet
 - **Evidence:** C
 
 ### Legal lines and run-ins with the law
@@ -635,25 +679,14 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** A
 - **Source:** US Department of Labor, CareerOneStop ; Service Canada, *EI Regular Benefits*.
 
-#### 2. (US) Lost job-based health coverage? Compare the ACA Marketplace with COBRA before choosing
-- **In plain English:** Losing coverage gives you a 60-day window to enroll in a Marketplace plan, which is often far cheaper than COBRA after subsidies.
-- **Evidence:** A
-- **Source:** HealthCare.gov, *Special Enrollment Period*.
-
-#### 3. (Canada) Don't sign a severance offer on the spot; talk to an employment lawyer
-- **Cost:** Many offer a free consult.
-- **In plain English:** Without a valid termination clause, Canadian courts often award "reasonable notice" far above the provincial minimum, sometimes up to 24 months for long-service employees. US employment is mostly "at will," so this matters much more in Canada.
-- **Evidence:** B
-- **Source:** Provincial employment standards; common-law reasonable notice case law.
-
-#### 4. Write down what happened (dates, names, emails to yourself) the moment something at work feels wrong
+#### 2. Write down what happened (dates, names, emails to yourself) the moment something at work feels wrong
 - **Evidence:** C
 
-#### 5. Report a work injury in writing the same day
+#### 3. Report a work injury in writing the same day
 - **In plain English:** Workers' comp (US) and the provincial workers' compensation board (Canada) have reporting deadlines.
 - **Evidence:** A
 
-#### 6. Know your parental leave
+#### 4. Know your parental leave
 - **In plain English:** US: FMLA gives eligible workers 12 weeks unpaid with job protection; some states (California, New York, Washington and others) pay benefits. Canada: EI maternity and parental benefits run up to 12 months standard or 18 months extended.
 - **Evidence:** A
 - **Source:** US Department of Labor, *FMLA* ; Service Canada, *EI maternity and parental benefits*.
@@ -666,25 +699,52 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Evidence:** A
 - **Source:** US Department of Education, *College Scorecard*. https://collegescorecard.ed.gov ; Red Seal Program, https://www.red-seal.ca
 
-#### 2. (US) Men aged 18 to 25 must register with Selective Service
-- **Cost:** Five minutes online.
-- **In plain English:** Not registering can block federal jobs and some state benefits later.
-- **Evidence:** A
-- **Source:** Selective Service System, https://www.sss.gov
-
-#### 3. Know your overtime rules
+#### 2. Know your overtime rules
 - **In plain English:** US: most hourly workers ("non-exempt") get 1.5 times pay after 40 hours a week. Canada: the threshold and rate depend on your province (for example, 44 hours in Ontario).
 - **Evidence:** A
 - **Source:** US Department of Labor, *Fair Labor Standards Act* ; provincial employment standards.
 
-#### 4. (US) For federal student loans, use the official tools and never pay a company to "enroll" you in forgiveness
-- **In plain English:** Repayment plans changed in 2025 and are still changing. Everything a paid "debt relief" company does, you can do for free at studentaid.gov.
-- **Evidence:** A
-- **Source:** Federal Student Aid, https://studentaid.gov [verify current plan names]
-
 ---
 
 ## 6. Family
+
+### Relationships and marriage
+
+#### 1. If a relationship is stuck, try couples therapy before it's an emergency
+- **Cost:** Often $100 to $250 a session; some plans and employee assistance programs (EAPs) cover a few sessions free.
+- **In plain English:** Couples therapy helps roughly 70% of couples improve, and it works better when started earlier.
+- **Evidence:** A
+- **Source:** Lebow JL, et al. (2012). Research on the treatment of couple distress. *Journal of Marital and Family Therapy*. https://doi.org/10.1111/j.1752-0606.2011.00249.x
+
+#### 2. Talk about money before moving in or marrying: debts, credit, spending and who pays what
+- **In plain English:** Money is one of the most common sources of conflict. Living together or marrying can also change your legal rights to each other's property in both countries, sometimes without any paperwork.
+- **Evidence:** C
+- **US / Canada:** In most provinces, couples who live together long enough become "common-law" partners with some legal and tax obligations; Quebec is different. Most US states don't recognize common-law marriage. [verify]
+
+#### 3. Think about a prenup or cohabitation agreement if either of you has a business, a home, kids or significant debt
+- **Cost:** Each person should have their own lawyer.
+- **Evidence:** C
+
+#### 4. Leave if a partner controls your money, phone or who you see, and get help planning it
+- **In plain English:** Leaving is the most dangerous time in an abusive relationship. A hotline can help plan it safely.
+- **Evidence:** B
+- **Source:** National Domestic Violence Hotline (US), 1-800-799-7233, https://www.thehotline.org ; in Canada, ShelterSafe.ca lists shelters by province.
+
+### School-age kids
+
+#### 1. Send kids outside for at least an hour or two a day
+- **Cost:** Free.
+- **In plain English:** In a school-based trial, adding 40 minutes of outdoor activity a day lowered the share of children who became nearsighted over three years (30% vs 40%). Daylight seems to be what helps.
+- **Evidence:** A
+- **Source:** He M, et al. (2015). Effect of Time Spent Outdoors at School on the Development of Myopia Among Children in China: A Randomized Clinical Trial. *JAMA*. https://doi.org/10.1001/jama.2015.10803
+
+#### 2. If your child is bullied, write it down and go to the school in writing
+- **In plain English:** Dates, screenshots and names help, and a written report usually triggers the school's policy. Being bullied is linked to anxiety, depression and self-harm, so take it seriously even if it seems minor.
+- **Evidence:** B
+- **Source:** StopBullying.gov (US) ; Public Safety Canada, *Bullying prevention*.
+
+#### 3. Don't wait until after exams or the school year to get a child help for mental health or a medical problem
+- **Evidence:** C
 
 ### Aging parents and after a death
 
