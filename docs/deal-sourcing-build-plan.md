@@ -14,8 +14,16 @@ A tool that:
 5. Keeps a registry of **buyers** and their criteria, and matches qualified sellers to buyers.
 6. Generates **anonymized teasers** — only after the owner has approved in writing.
 
-The operator (a single person) uses it to run outreach, then hands interested owners to a
-licensed business broker partner (or handles them directly once licensed).
+7. Collects **business-for-sale listing data** (English and Chinese-language sites) and fits
+   econometric **pricing** and **time-to-sale** models.
+8. Produces a bilingual (English / Simplified Chinese) **Ontario Small Business Succession Report**.
+
+The operator (a single person, Mandarin-speaking, econ PhD) uses it to run outreach, then hands
+interested owners to a licensed business broker partner (or handles them directly once licensed).
+
+**Positioning the tool supports:** data-driven, bilingual (EN/中文) brokerage for the GTA, with a
+focus on Chinese-speaking buyers and sellers (Markham, Richmond Hill, Scarborough, Mississauga),
+while still serving the general market.
 
 **MVP target:** one province, two or three niches, ~5,000 businesses ingested, top 300 scored
 and ready for a letter campaign.
@@ -30,6 +38,9 @@ and ready for a letter campaign.
 | **Broker licensing** | The system does not compute or track success fees/commissions in MVP. Fee logic is out of scope until legal review. |
 | **Source ToS** | Respect `robots.txt`, rate-limit crawlers, and obey each API's storage rules (e.g. Google Places: persist only `place_id` long-term; re-fetch details when needed). |
 | **Auditability** | Append-only `audit_log` table for every outreach, status change, consent, and export. |
+| **Listing-site ToS** | Before building any listing scraper, check the site's Terms of Use and `robots.txt`. If scraping is prohibited (BizBuySell's terms restrict automated access), do **not** scrape: support manual CSV import or a licensed data feed instead. Every listing source has a `collection_method` field (`api`, `scrape_permitted`, `manual_import`). |
+| **FINTRAC / AML** | Buyer records include `kyc_verified_at` and `source_of_funds_notes`. A buyer cannot be matched to a consented seller until KYC is marked verified. |
+| **Immigration** | No feature may describe a business as an immigration pathway. Teaser/letter generation rejects text mentioning PR, visas, or OINP. |
 
 ## 3. Tech stack
 
@@ -42,6 +53,7 @@ and ready for a letter campaign.
 - **Dashboard:** Streamlit (single-user, local).
 - **PDF letters:** Jinja2 templates → WeasyPrint.
 - **Mail sending (optional, M5):** PostGrid print-and-mail API (Canadian), behind an interface.
+- **Econometrics:** statsmodels, lifelines (survival), scikit-learn (CV only). Fonts: Noto Sans CJK.
 - **CLI:** Typer. **Config:** `pydantic-settings` + YAML. **Tests:** pytest. **Lint:** ruff, mypy.
 
 ## 4. Repository layout
@@ -90,6 +102,24 @@ dealsource/
     compliance/
       dnc.py
       audit.py
+    listings/             # business-for-sale listing collection
+      base.py
+      manual_import.py    # CSV import (any site, incl. BizBuySell exports done by hand)
+      cn_51ca.py          # 51.ca 生意转让 — only if ToS/robots permit
+      cn_yorkbbs.py       # Yorkbbs 生意买卖 — only if ToS/robots permit
+      normalize.py        # LLM extraction: industry, asking price, revenue, SDE, rent, city
+    models/               # econometrics (operator's core edge)
+      pricing.py          # hedonic regression: log(price) ~ log(SDE) + industry + region + ...
+      time_to_sale.py     # survival model of listing duration / price cuts
+      retirement_hazard.py# hazard model for owner exit likelihood (feeds scorer)
+      diagnostics.py      # fit stats, residual plots, out-of-sample validation
+    i18n/
+      zh_hans.yaml        # UI + template strings, Simplified Chinese
+      zh_hant.yaml        # Traditional Chinese (for Hong Kong-origin owners — written only)
+    reports/
+      succession_report.py    # builds the bilingual report
+      templates/report_en.md.j2
+      templates/report_zh.md.j2
     analysis/
       niche_scan.py       # competition / opportunity ranking per niche+region
   app/
@@ -117,8 +147,15 @@ dealsource/
   consented → referred_to_broker → under_loi → closed_won | closed_lost | not_now | dnc`
 - **consent**: `id, business_id, type(teaser|share_financials|buyer_intro), granted_at,
   evidence_path, revoked_at`
-- **buyer**: `id, name, type(searcher|holdco|pe|individual|broker), email, provinces,
-  niches, min_sde, max_sde, max_price, financing_status, nda_signed_at, notes`
+- **buyer**: `id, name, type(searcher|holdco|pe|individual|broker), email, wechat_id,
+  preferred_language(en|zh_hans|zh_hant), provinces, niches, min_sde, max_sde, max_price,
+  financing_status, nda_signed_at, kyc_verified_at, source_of_funds_notes, notes`
+- **listing**: `id, source, collection_method, external_id, url, title_raw, language,
+  industry, city, region, asking_price, revenue, sde, rent_monthly, lease_years_left,
+  years_operating, includes_real_estate, first_seen_at, last_seen_at, delisted_at,
+  price_history_json, extraction_confidence`
+- **model_run**: `id, model_name, spec, n_obs, metrics_json, coefficients_json, run_at,
+  data_snapshot_hash`
 - **match**: `id, business_id, buyer_id, match_score, reasons_json, status, created_at`
 - **dnc**: `id, business_id_or_phone_or_address, reason, added_at`
 - **audit_log**: `id, actor, action, entity, entity_id, payload_json, at` (append-only)
@@ -180,6 +217,10 @@ All scores 0–100. Every score stores human-readable `reasons` (the dashboard s
 ### M5 — Outreach letters (2 days)
 - Jinja2 letter template: short, personal, no pressure ("thinking about what's next for the business?"), references one true specific detail (years in business, niche), includes opt-out instructions and operator contact.
 - LLM drafts the one personalized paragraph; operator approves in dashboard before PDF generation.
+- Letter languages: `en`, `en+zh_hant` (bilingual, for owners whose names/signals suggest
+  Hong Kong origin — written Traditional Chinese is readable by Cantonese speakers), and
+  `en+zh_hans`. Language is chosen by the operator per campaign, never inferred from
+  ethnicity automatically without operator review. CJK fonts (Noto Sans CJK) embedded in PDFs.
 - `mail_provider.py`: `DryRunProvider` (writes PDFs to `out/letters/`) and `PostGridProvider`.
 - DNC check before generation and before sending.
 - ✅ `dealsource letters --campaign c1 --top 200 --dry-run` produces 200 PDFs + a CSV manifest; DNC entries are excluded; each send logged.
@@ -193,6 +234,49 @@ All scores 0–100. Every score stores human-readable `reasons` (the dashboard s
 ### M7 — Niche/competition scan (1–2 days)
 - `analysis/niche_scan.py`: per niche × region, report: business count, share with 25+ years, median retirement score, (optional, manually imported) count of active marketplace listings and recent PE/roll-up deals.
 - ✅ `dealsource niche-scan --province ON` outputs a ranked CSV + Markdown summary of niches by opportunity (many old businesses, few listings, few roll-up deals).
+
+### M8 — Listing data collection (3 days)
+- `listings/base.py` interface; `manual_import.py` first (works for any site).
+- Chinese-language adapters (`cn_51ca.py`, `cn_yorkbbs.py`): **first** write a short
+  `docs/sources_review.md` recording each site's ToS and robots.txt findings; implement a
+  scraper only where permitted, otherwise fall back to manual import.
+- `normalize.py`: LLM extracts structured fields from free-text Chinese/English posts
+  (e.g. "年营业额80万, 月租6000, 租约剩5年" → revenue 800000, rent_monthly 6000,
+  lease_years_left 5). Pydantic-validated; store `extraction_confidence`.
+- Re-crawl on a schedule to record `last_seen_at`, price changes, and delisting (needed for
+  time-to-sale).
+- ✅ ≥500 listings normalized; on a 50-row hand-labelled sample, field accuracy ≥90% for
+  industry, city, asking price.
+
+### M9 — Econometric models (3–4 days)
+- `pricing.py`: OLS / robust regression of `log(asking_price)` on `log(SDE or revenue)`,
+  industry FE, region FE, years operating, rent burden, lease remaining, real-estate dummy,
+  listing language. Report coefficients, robust SEs, R², out-of-sample RMSE (k-fold).
+  Expose `predict_price(business) -> (point, 80% interval)`.
+- `time_to_sale.py`: Kaplan–Meier by industry/region + Cox PH model of delisting hazard
+  (treat still-listed as censored). Output median days-on-market per segment.
+- `retirement_hazard.py`: hazard/logit model of owner exit using business-age and staleness
+  features; start with priors from config, re-estimate once outreach outcomes (replied /
+  interested) accumulate. Scorer reads the predicted probability instead of hand weights
+  when a fitted model exists.
+- Use `statsmodels` and `lifelines`; every fit writes a `model_run` row.
+- ✅ `dealsource model fit pricing` prints a regression table and saves diagnostics to
+  `out/models/`; `dealsource value <business_id>` returns a price range with reasons.
+
+### M10 — Succession report (2 days)
+- `dealsource report succession --province ON --year 2027` builds EN and ZH (Simplified)
+  Markdown → PDF reports: share of businesses aged 25+ by region/industry, estimated
+  businesses at succession risk, median asking multiples, median days-on-market, top
+  opportunity niches. Charts via matplotlib with CJK fonts.
+- All numbers in the report are generated from the DB, never typed by the LLM; the LLM
+  only drafts narrative around a provided table of figures, and a check verifies every
+  number in the narrative appears in that table.
+- ✅ Report reproducible from one command; both language versions contain identical figures.
+
+### M11 — Bilingual dashboard (1 day)
+- Streamlit UI language toggle (EN / 简体中文) via `i18n/`.
+- Buyer intake supports WeChat ID and preferred language.
+- ✅ All dashboard pages render fully in both languages.
 
 ## 8. Config example (`config/default.yaml`)
 
@@ -238,5 +322,8 @@ outreach: { email_enabled: false, default_channel: mail }
 1. One command sequence runs end to end:
    `ingest → enrich → score → top → letters --dry-run`.
 2. Dashboard shows ranked prospects with explainable reasons and a working pipeline.
-3. All compliance tests pass; CI green.
+3. `listings → model fit → value → report succession` runs end to end and produces the
+   bilingual report.
+4. All compliance tests pass (incl. KYC gating, immigration-text filter, ToS-gated sources);
+   CI green.
 4. README documents setup, API keys, and the legal guardrails above.
