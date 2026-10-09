@@ -2,11 +2,11 @@
 
 **Last reviewed: October 2026.** Rules on taxes, benefits, vaccines and health coverage change often, especially in the US right now. Check the linked source before acting on any single number.
 
-This guide has two parts. **Part 1** summarizes what the original Chinese guide covers, chapter by chapter, and how well each chapter carries over. **Part 2** is our own list for US readers: the original's advice that still applies, rewritten with local examples and sources, plus what Americans need that the original doesn't cover (health insurance, credit scores, Social Security and more). Notes on Canada are kept where the difference is small; Canada-only items are held in a separate backlog for now.
+This guide has two parts. **Part 1** summarizes the guide this list is based on, chapter by chapter. **Part 2** is our own list for US readers: the advice that still applies, rewritten with local examples and sources, plus what Americans need that the original doesn't cover (health insurance, credit scores, Social Security and more). Notes on Canada are kept where the difference is small; Canada-only items are held in a separate backlog for now.
 
 Part 2 is a list of things that cost little and pay back a lot: more years of life, more money, more time, and fewer legal messes. It is a menu, not a to-do list. Pick one or two items and you have gotten your money's worth. Nobody does all of them, including the author.
 
-It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, <https://github.com/eternity4719/HowToLiveBetter>, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation.
+It is adapted from [How to Live Better](https://github.com/eternity4719/HowToLiveBetter) by eternity4719 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). This version keeps the idea and format, rewrites the items for the US and Canada, and adds new ones (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on).
 
 Nothing here is medical, legal, tax or financial advice for your situation. When an item says "ask a doctor" or "talk to a lawyer," that is the item.
 
@@ -20,7 +20,7 @@ Nothing here is medical, legal, tax or financial advice for your situation. When
 
 ## Contents
 
-**[Part 1: What the original guide covers](#part-1-what-the-original-guide-covers):** a summary of all 34 chapters.
+**[Part 1: Summary of the original guide](#part-1-summary-of-the-original-guide):** a short summary of its 34 chapters.
 
 **[Part 2: Our list for US readers](#part-2-our-list-for-us-readers):**
 
@@ -37,119 +37,111 @@ Items marked **(US)** apply only in the US. Unmarked items apply in both countri
 
 ---
 
-# Part 1: What the original guide covers
+# Part 1: Summary of the original guide
 
-The original, *高性价比人生指南* ("A High-Value Guide to Life"), is a Chinese-language book of **676 tips in 34 chapters**. Every tip says what it costs (money, time, effort, willpower), what it buys back (years of life, money, time and energy, or staying out of legal trouble), and how strong the evidence is: **A** (a specific number from a meta-analysis, a large cohort, a randomized trial, or the text of a law), **B** (supported but no firm number), or **C** (common practice or the author's experience). Within each chapter, tips are sorted by value for the cost. The author is explicit that it's a menu, not a to-do list. Health, legal and insurance content is written for mainland China.
+The original is a book of **676 tips in 34 chapters**. Every tip says what it costs (money, time, effort, willpower), what it buys back (years of life, money, time and energy, or staying out of legal trouble), and how strong the evidence is: **A** (a specific number from a meta-analysis, a large cohort, a randomized trial, or the text of a law), **B** (supported but no firm number), or **C** (common practice or the author's experience). Within each chapter, tips are sorted by value for the cost. The author is explicit that it's a menu, not a to-do list.
 
-Below is a short summary of each chapter, with a tag for how well it carries over:
-
-- **Universal:** the advice works as is in the US and Canada.
-- **Local version needed:** the idea holds, but the laws, programs or phone numbers are Chinese.
-- **China only:** built on Chinese law or institutions, so Part 2 doesn't carry it over.
-
-### 1. Don't die early (43 tips) · Local version needed
+### 1. Don't die early (43 tips)
 Cheap ways to avoid preventable death: seat belts front and back, helmets on motorcycles and e-bikes, smoke and carbon monoxide alarms, never eating wild mushrooms, not charging e-bikes indoors, treating high blood pressure, diabetes and hepatitis B checks, HPV and other vaccines, cancer screening (breast, cervical, colon, low-dose CT for heavy smokers), crisis lines, fire extinguishers, and taking warning signs like blood in the urine seriously.
 
-### 2. Don't die slowly (44 tips) · Local version needed
-Long-term habits: quitting smoking (with medication, a set quit date, and quitlines), no smoking at home, cutting sugary drinks, low-sodium potassium salt, brushing and flossing, 7,000 to 8,000 steps a day, strength training, sleep, less processed meat, less alcohol (and not quitting heavy drinking cold turkey), nuts, whole grains, fish, coffee and tea, and cooking with a range hood. Some tips (betel nut, unlicensed bulk peanut oil) are China-specific.
+### 2. Don't die slowly (44 tips)
+Long-term habits: quitting smoking (with medication, a set quit date, and quitlines), no smoking at home, cutting sugary drinks, low-sodium potassium salt, brushing and flossing, 7,000 to 8,000 steps a day, strength training, sleep, less processed meat, less alcohol (and not quitting heavy drinking cold turkey), nuts, whole grains, fish, coffee and tea, and cooking with a range hood.
 
-### 3. Don't waste energy (25 tips) · Universal
+### 3. Don't waste energy (25 tips)
 Protecting attention and sleep: turn off non-essential notifications, keep a fixed wake time, sleep 7 to 8 hours, no caffeine after 2 p.m., batch email and messages, guard deep-work time, and set realistic expectations when dealing with institutions.
 
-### 4. Don't waste time (18 tips) · Universal
+### 4. Don't waste time (18 tips)
 Turning intentions into "when, where, if-then" plans, setting quit conditions up front, ignoring sunk costs, estimating from past tasks rather than plans, fewer and shorter meetings, and fighting procrastination by changing the environment, not by willpower.
 
-### 5. Don't waste money (46 tips) · Local version needed
-Cancel auto-renewals, skip the lottery and "guaranteed return" pitches, avoid minimum payments and consumer loans (convert any rate to an annual rate first), skip extended warranties, buy low-fee broad index funds, keep 3 to 6 months of emergency savings, buy insurance only for losses you can't absorb, and buy term life insurance for earners. Never buy crypto as an investment. Tax filing, housing-fund withdrawals and pension-account details are Chinese.
+### 5. Don't waste money (46 tips)
+Cancel auto-renewals, skip the lottery and "guaranteed return" pitches, avoid minimum payments and consumer loans (convert any rate to an annual rate first), skip extended warranties, buy low-fee broad index funds, keep 3 to 6 months of emergency savings, buy insurance only for losses you can't absorb, and buy term life insurance for earners. Never buy crypto as an investment.
 
-### 6. The "don't bother" list (31 tips) · Universal, with a few local swaps
+### 6. The "don't bother" list (31 tips)
 Things that look smart but aren't: multivitamins, regular fish oil, vitamin D for people who aren't deficient, antioxidant pills, glucosamine for knee arthritis, vitamin C for colds, the idea that willpower "runs out," and asking AI chatbots to diagnose illness or legal problems.
 
-### 7. Living with no money (22 tips) · Local version needed
-What to claim and where to go when broke: unemployment benefits, free labor-complaint channels for unpaid wages, legal aid, emergency shelters, free public job services, and temporary relief funds. All of the programs named are Chinese.
+### 7. Living with no money (22 tips)
+What to claim and where to go when broke: unemployment benefits, free labor-complaint channels for unpaid wages, legal aid, emergency shelters, free public job services, and temporary relief funds.
 
-### 8. Don't get yourself in trouble (46 tips) · Local version needed
-Staying out of legal and money disasters: stop and call after a crash, report fraud immediately, never treat a face on video or a voice on the phone as proof of identity, get a lawyer if accused, don't co-sign or guarantee loans, never lend your face scan or a verification code, statutes of limitation, dog-owner liability, and home break-in prevention. The legal details are Chinese.
+### 8. Don't get yourself in trouble (46 tips)
+Staying out of legal and money disasters: stop and call after a crash, report fraud immediately, never treat a face on video or a voice on the phone as proof of identity, get a lawyer if accused, don't co-sign or guarantee loans, never lend your face scan or a verification code, statutes of limitation, dog-owner liability, and home break-in prevention.
 
-### 9. Legal red lines (26 tips) · China only
-Everyday acts that are crimes in China: forwarding unverified rumors, "insulting martyrs," sharing content from foreign websites, and more. Parts of it travel: being a money mule, faking loan documents or insurance claims, throwing objects from height, hidden cameras and drones. Part 2 covers those in "Safety and the law."
+### 9. Legal red lines (26 tips)
+Everyday acts that can be crimes: being a money mule, faking loan documents or insurance claims, throwing objects from height, hidden cameras and drones. Part 2 covers these in "Safety and the law."
 
-### 10. Dating and marriage (20 tips) · Local version needed
-Meet more people rather than fixating on one, stop when someone says no, judge interest by behavior, and know that long-distance works fine (the hard part is the first months of living together). Also covers couples therapy and the money side of marriage. Bride price and marriage-registration rules are Chinese.
+### 10. Dating and marriage (20 tips)
+Meet more people rather than fixating on one, stop when someone says no, judge interest by behavior, and know that long-distance works fine (the hard part is the first months of living together). Also covers couples therapy and the money side of marriage.
 
-### 11. Red lines for programmers (19 tips) · China only
-Game cheats, ticket-scalping bots, scraping, wiping databases when you leave, taking source code, freelance work for gambling or scam apps, and Chinese website licensing. The general points (don't access systems without permission, don't take code when you quit, respect open-source licenses) apply anywhere.
+### 11. Red lines for programmers (19 tips)
+Game cheats, ticket-scalping bots, scraping, wiping databases when you leave, taking source code, and freelance work for gambling or scam apps. The core rules: don't access systems without permission, don't take code when you quit, and respect open-source licenses.
 
-### 12. Starting a business (24 tips) · Local version needed
-Only risk money you can lose, never sign personal guarantees (and keep your spouse off them too), choose a limited-liability structure, never be a nominee shareholder, read franchise disclosures, and watch for "store-setup" and "no-inventory" training scams. Registration and tax steps are Chinese.
+### 12. Starting a business (24 tips)
+Only risk money you can lose, never sign personal guarantees (and keep your spouse off them too), choose a limited-liability structure, never be a nominee shareholder, read franchise disclosures, and watch for "store-setup" and "no-inventory" training scams.
 
-### 13. Emergencies (44 tips) · Universal, with local phone numbers
-First aid that works anywhere: CPR and AEDs, recognizing stroke (including subtle ones), heart attack and aortic dissection, heavy bleeding and tourniquets, bites, burns (20 minutes of cool running water), anaphylaxis, seizures, low blood sugar, electric shock, carbon monoxide, poisoning, heatstroke, fire, drowning, getting lost, hypothermia, snakebite, earthquakes, lightning, altitude, ticks and infant choking. Emergency numbers are Chinese (120 and 110).
+### 13. Emergencies (44 tips)
+First aid that works anywhere: CPR and AEDs, recognizing stroke (including subtle ones), heart attack and aortic dissection, heavy bleeding and tourniquets, bites, burns (20 minutes of cool running water), anaphylaxis, seizures, low blood sugar, electric shock, carbon monoxide, poisoning, heatstroke, fire, drowning, getting lost, hypothermia, snakebite, earthquakes, lightning, altitude, ticks and infant choking.
 
-### 14. Accounts and data security (10 tips) · Universal, with local laws
-Two-factor authentication, a unique email password, a phone lock and SIM PIN, what to do in order when a phone is lost, card fraud, reviewing logged-in devices, and your legal right to see and delete your data. The privacy-law details are Chinese.
+### 14. Accounts and data security (10 tips)
+Two-factor authentication, a unique email password, a phone lock and SIM PIN, what to do in order when a phone is lost, card fraud, reviewing logged-in devices, and your legal right to see and delete your data.
 
-### 15. Renting and buying (9 tips) · Local version needed
+### 15. Renting and buying (9 tips)
 Write deposit terms into the lease, call the police if a landlord cuts utilities or changes locks, pay rent directly to the landlord, a sale doesn't end your lease, and check ownership and liens before paying.
 
-### 16. Living with chronic illness (9 tips) · Universal, minus insurance details
+### 16. Living with chronic illness (9 tips)
 Take medicine as prescribed and don't stop when you feel better, follow up on schedule and log your numbers, don't drop treatment for folk remedies, and get long-term prescriptions for stable conditions.
 
-### 17. Elderly family (10 tips) · Local version needed
+### 17. Elderly family (10 tips)
 Name a guardian in writing while a parent is still sharp, write a will, keep an older person's money in a separate account with two-person sign-off for big spending, give them a ready excuse for high-pressure sellers, avoid "senior investment" and reverse-mortgage scams, and prevent pressure sores and falls.
 
-### 18. Is raising kids worth it (6 tips) · Local version needed
+### 18. Is raising kids worth it (6 tips)
 Count the benefits you can claim, know maternity leave and anti-discrimination rights, and do an honest time-and-money budget in three stages.
 
-### 19. Work, quitting and injury (19 tips) · Local version needed
-Overtime pay, paid vacation, probation rules, severance math, never signing a "voluntary resignation" when you're being let go, keeping evidence, and workplace injury claims. All based on Chinese labor law.
+### 19. Work, quitting and injury (19 tips)
+Overtime pay, paid vacation, probation rules, severance math, never signing a "voluntary resignation" when you're being let go, keeping evidence, and workplace injury claims.
 
-### 20. Newborn care (14 tips) · Universal
+### 20. Newborn care (14 tips)
 Safe sleep (on the back, firm surface, own bed), the first hepatitis B shot within 24 hours, the full vaccine schedule, exclusive breastfeeding for six months, safe formula temperature, no honey before age 1, vitamin K, and fever warning signs.
 
-### 21. Travel abroad (11 tips) · Local version needed
+### 21. Travel abroad (11 tips)
 Check travel advisories, save consular numbers, know what consulates can and can't do, buy travel medical insurance, treat "high-paying overseas jobs" as scams, and know what to do if your passport is lost.
 
-### 22. How to relax (10 tips) · Universal, with local examples
+### 22. How to relax (10 tips)
 Check fire exits at bars, karaoke and escape rooms, ask for prices before ordering, leave if someone offers drugs, never drink anything that left your sight, and for stress, exercise, mindfulness, time with friends and green space.
 
-### 23. Which skills pay (23 tips) · Local version needed
+### 23. Which skills pay (23 tips)
 How to judge whether more schooling pays off, the health returns of education, fake certificates, training subsidies, which skills are hard to automate, and study methods that work (self-testing, spaced and mixed practice; "learning styles" have no evidence).
 
-### 24. Seeing a doctor (12 tips) · Local version needed
-How China's referral and reimbursement system works, keeping copies of your records, ER triage, emergency aid if you can't pay, disability assessment, and never needing to give doctors "red envelope" bribes.
+### 24. Seeing a doctor (12 tips)
+How referrals and reimbursement work, keeping copies of your records, ER triage, emergency aid if you can't pay, and disability assessment.
 
-### 25. After a death (10 tips) · Local version needed
-Death certificates, funeral-home rules, autopsy requests, itemized funeral pricing, and claiming the person's remaining pension and housing-fund balances.
+### 25. After a death (10 tips)
+Death certificates, funeral-home rules, autopsy requests, itemized funeral pricing, and claiming the person's remaining pension and account balances.
 
-### 26. Building a website (11 tips) · China only
-Chinese licensing, hosting registration and payment rules for running a website or platform.
+### 26. Building a website (11 tips)
+Licensing, hosting and payment rules for running a website or platform.
 
-### 27. Pregnancy and birth (17 tips) · Universal clinical advice, local paperwork
-Folic acid before conception, early prenatal care, HIV, syphilis and hepatitis B tests, no smoking or alcohol, low-dose aspirin for high-risk pregnancies, gestational diabetes screening, warning signs, epidurals, and the six-week postpartum checkup. Insurance and birth-registration steps are Chinese.
+### 27. Pregnancy and birth (17 tips)
+Folic acid before conception, early prenatal care, HIV, syphilis and hepatitis B tests, no smoking or alcohol, low-dose aspirin for high-risk pregnancies, gestational diabetes screening, warning signs, epidurals, and the six-week postpartum checkup.
 
-### 28. Don't harm your body for looks (9 tips) · Universal, with local licensing
+### 28. Don't harm your body for looks (9 tips)
 No extreme dieting or purging, check a clinic's license before injections or surgery, know the danger zones for facial fillers, avoid "fast slimming" products and anabolic steroids, get weight-loss drugs only by prescription, and have braces fitted and followed by a real orthodontist.
 
-### 29. After a major blow (13 tips) · Universal, with local hotlines
+### 29. After a major blow (13 tips)
 Don't be alone in the first days after a death (heart risk spikes), bring someone to a serious diagnosis, keep a routine after a job loss, get professional help after a suicide or violent death, delay irreversible decisions, and never see death as a way out of debt.
 
-### 30. School-age kids (18 tips) · Mostly universal
+### 30. School-age kids (18 tips)
 Treat sudden, worsening pain as urgent, don't postpone treatment until after exams, report bullying in writing the same day, two hours outdoors daily to prevent nearsightedness, screen-time limits, no hitting or yelling, and avoid "internet addiction" boot camps.
 
-### 31. Paths after 18 (16 tips) · Local version needed
-Chinese military service, civil-service and teacher programs, adult education and gig-work insurance. The idea of comparing paths by their real entry requirements carries over; the programs need US and Canadian equivalents (military, trades, community college).
+### 31. Paths after 18 (16 tips)
+Military service, civil-service and teaching programs, adult education and gig-work insurance, compared by their real entry requirements.
 
-### 32. Studying abroad (10 tips) · China only
-Written for Chinese students heading to the US, Canada, the UK and Australia (visa status, work-hour limits, degree recognition back home), so it runs backward for readers who already live here.
+### 32. Studying abroad (10 tips)
+For students heading abroad: visa status, work-hour limits and whether the degree is recognized back home.
 
-### 33. Living with disability (20 tips) · Local version needed
+### 33. Living with disability (20 tips)
 Medical emergencies after spinal injury, suicide risk in the first ten years after disability, caregivers' own health, pressure-relief cushions, cure scams, and the benefits, education rights and guardianship rules that come with a disability certificate.
 
-### 34. Medicine cabinet (11 tips) · Universal, with local drug names
+### 34. Medicine cabinet (11 tips)
 Don't double up on acetaminophen, no aspirin for feverish kids, ibuprofen risks for older people, no combination cold medicine under 2, no ibuprofen after 20 weeks of pregnancy, a 7-day cap on self-treating with omeprazole, no antibiotics for colds, oral rehydration for diarrhea, and no alcohol with certain antibiotics.
-
-**Overall:** about half the book (chapters 3, 4, 6, 13, 16, 20, 22, 27, 28, 29, 30, 34 and much of 1 and 2) works almost as is. Most of the rest needs local laws and programs. Four chapters (9, 11, 26 and 32) don't carry over.
 
 ---
 
@@ -1115,4 +1107,4 @@ These aren't about evidence. They're about avoiding friction for people new to N
 
 ## License and attribution
 
-This draft is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719 (https://github.com/eternity4719/HowToLiveBetter), used under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Changes: selected and rewritten for US and Canadian readers in English; most China-specific items removed; new items added on US and Canadian health coverage, credit, taxes, tipping, firearms, opioids, wildfire smoke, employment law and everyday norms. Based on the upstream repository as of October 9, 2026. This adaptation is also offered under CC BY 4.0.
+Adapted from [How to Live Better](https://github.com/eternity4719/HowToLiveBetter) by eternity4719, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Rewritten and expanded for US readers. This version is also offered under CC BY 4.0.
