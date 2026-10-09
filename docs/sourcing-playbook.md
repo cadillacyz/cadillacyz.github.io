@@ -24,9 +24,13 @@ Tariffs may well be temporary, but the timing is uncertain (CUSMA review, politi
 
 | Scenario | Example probability (operator sets) | Effect on exposed firm's earnings |
 |---|---|---|
-| Tariffs removed within 12 months | 40% | Back to normalized earnings |
-| Tariffs persist 1–3 years | 40% | Earnings stay depressed, then recover |
-| Tariffs escalate | 20% | Further decline; some firms fail |
+| Tariffs removed within 12 months | 20% | Back to normalized earnings |
+| Tariffs persist 1–3 years | 50% | Earnings stay depressed, then recover |
+| Tariffs escalate | 30% | Further decline; some firms fail |
+
+Weights updated Oct 2026 after the August talks collapse and 50% U.S. tariffs — see
+`market-and-regulation-review-2026-10.md`. Also model the **upside** side: Canadian
+counter-tariffs (15–50% on many U.S. goods) favour domestic substitutes.
 
 The engine reports an **expected value and a downside case** for exposed businesses. A
 tariff-hit business whose price already reflects the bad scenario is a buy signal, not a
