@@ -1,0 +1,188 @@
+:root {
+  color-scheme: light;
+  --font-display: ui-rounded, 'Arial Rounded MT Bold', 'Trebuchet MS', 'Segoe UI', sans-serif;
+  --font-body: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  --background: #f7fbff;
+  --surface: #ffffff;
+  --surface-soft: #eaf6ff;
+  --text: #14213d;
+  --muted: #52657a;
+  --accent: #2563eb;
+  --accent-strong: #174ea6;
+  --border: rgba(23, 78, 166, 0.17);
+  --focus: #0b63ce;
+  font-family: var(--font-body);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --background: #071427;
+  --surface: #0d2340;
+  --surface-soft: #102b4d;
+  --text: #f5faff;
+  --muted: #b8c7d9;
+  --accent: #38bdf8;
+  --accent-strong: #60a5fa;
+  --border: rgba(184, 199, 217, 0.18);
+  --focus: #7dd3fc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: var(--background);
+  color: var(--text);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+a {
+  color: var(--accent-strong);
+  overflow-wrap: anywhere;
+}
+
+:root[data-theme='dark'] a {
+  color: var(--accent);
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -3rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--surface);
+  border-radius: 0.5rem;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+.guide-header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem max(1rem, calc((100% - 46rem) / 2));
+  background: color-mix(in srgb, var(--background) 92%, transparent);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(8px);
+}
+
+.back-link {
+  font-family: var(--font-display);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.theme-toggle {
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.guide {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+}
+
+.guide h1,
+.guide h2,
+.guide h3,
+.guide h4 {
+  font-family: var(--font-display);
+  line-height: 1.25;
+}
+
+.guide h1 {
+  font-size: clamp(1.9rem, 5vw, 2.6rem);
+  margin: 2.5rem 0 1rem;
+}
+
+.guide > h1:first-child {
+  margin-top: 0;
+}
+
+.guide h2 {
+  font-size: 1.6rem;
+  margin: 2.5rem 0 0.75rem;
+}
+
+.guide h3 {
+  font-size: 1.25rem;
+  margin: 2rem 0 0.5rem;
+  color: var(--accent-strong);
+}
+
+:root[data-theme='dark'] .guide h3 {
+  color: var(--accent);
+}
+
+.guide h4 {
+  font-size: 1.05rem;
+  margin: 1.5rem 0 0.4rem;
+}
+
+.guide ul,
+.guide ol {
+  padding-left: 1.4rem;
+}
+
+.guide li {
+  margin: 0.2rem 0;
+}
+
+.guide hr {
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 1px solid var(--border);
+}
+
+.guide blockquote {
+  margin: 1rem 0;
+  padding: 0.25rem 1rem;
+  background: var(--surface-soft);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.guide table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+
+.guide th,
+.guide td {
+  padding: 0.5rem 0.6rem;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.guide th {
+  background: var(--surface-soft);
+}
