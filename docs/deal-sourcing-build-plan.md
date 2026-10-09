@@ -273,6 +273,26 @@ All scores 0–100. Every score stores human-readable `reasons` (the dashboard s
   number in the narrative appears in that table.
 - ✅ Report reproducible from one command; both language versions contain identical figures.
 
+### M12 — Situations, resilience, and scenarios (3–4 days)
+Implements `docs/sourcing-playbook.md`. Read it fully before starting.
+- `dealsource/situations/`: rule + LLM detectors that attach **tags** to a business
+  (seller situation, red flags, data-quality problems), each with `evidence`,
+  `confidence`, and `nature` (`transitory|structural|unknown`).
+- `score/resilience.py`: resilience score from (a) industry cyclicality estimated from
+  StatCan industry revenue in 2008–09 and 2020, (b) US trade exposure by industry from
+  StatCan input-output tables, (c) AI-disruption risk by niche (config), (d) population
+  sensitivity and labour-cost share.
+- `models/scenarios.py`: tariff scenarios with operator-set probabilities in
+  `config/scenarios.yaml`; outputs expected normalized earnings and a downside case per
+  business; `depressed_value_opportunity` flag when fundamentals are good and the shock is
+  transitory.
+- Normalized earnings: weighted 3–5 year SDE with shock years flagged.
+- Hard exclusions (franchise locations, subsidiaries, closed/sold, structural decline, DNC)
+  applied before ranking; every exclusion stored with reason.
+- Dashboard: tags and scenario table on the business detail page; filters by tag.
+- ✅ Each playbook table row has at least one detector or a documented "diligence-only"
+  marker; tests cover exclusions, scenario math, and transitory-vs-structural tagging.
+
 ### M11 — Bilingual dashboard (1 day)
 - Streamlit UI language toggle (EN / 简体中文) via `i18n/`.
 - Buyer intake supports WeChat ID and preferred language.
