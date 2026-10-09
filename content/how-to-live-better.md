@@ -1,12 +1,12 @@
 # How to Live Better: A Cost-Benefit Guide for the US and Canada
 
-**Status: draft.** Not ready to publish. Every number and link needs a check against the current source before this goes live, and anything marked **[verify]** is a known soft spot. Rules on taxes, benefits and health coverage change every year; this draft reflects what the author understood as of October 2026.
+**Last reviewed: October 2026.** Rules on taxes, benefits, vaccines and health coverage change often, especially in the US right now. Check the linked source before acting on any single number.
 
-It has two parts. **Part 1** summarizes what the original Chinese guide covers, chapter by chapter, and how well each chapter carries over. **Part 2** is our own list for US readers: the original's advice that still applies, rewritten with local examples and sources, plus what Americans need that the original doesn't cover (health insurance, credit scores, Social Security and more). Notes on Canada are kept where the difference is small; Canada-only items are held in a separate backlog for now.
+This guide has two parts. **Part 1** summarizes what the original Chinese guide covers, chapter by chapter, and how well each chapter carries over. **Part 2** is our own list for US readers: the original's advice that still applies, rewritten with local examples and sources, plus what Americans need that the original doesn't cover (health insurance, credit scores, Social Security and more). Notes on Canada are kept where the difference is small; Canada-only items are held in a separate backlog for now.
 
 Part 2 is a list of things that cost little and pay back a lot: more years of life, more money, more time, and fewer legal messes. It is a menu, not a to-do list. Pick one or two items and you have gotten your money's worth. Nobody does all of them, including the author.
 
-It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, https://github.com/eternity4719/HowToLiveBetter, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation.
+It is adapted from **"高性价比人生指南" (How to Live Better)** by eternity4719, <https://github.com/eternity4719/HowToLiveBetter>, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The original is written for mainland China and its laws, health system and social programs. This version keeps the idea and format, drops or rewrites the China-specific items, and adds items that matter in the US and Canada (health insurance, credit scores, tipping, tax-advantaged accounts, firearms, fentanyl, wildfire smoke and so on). It is a changed and partial adaptation, not a translation.
 
 Nothing here is medical, legal, tax or financial advice for your situation. When an item says "ask a doctor" or "talk to a lawyer," that is the item.
 
@@ -165,7 +165,7 @@ Each item looks like this:
 > - **Cost:** Two seconds per trip.
 > - **In plain English:** A belt roughly halves your chance of dying in a crash if you're in the front seat.
 > - **Evidence:** A
-> - **Source:** NHTSA, *Seat Belts*. https://www.nhtsa.gov/vehicle-safety/seat-belts
+> - **Source:** NHTSA, *Seat Belts*. <https://www.nhtsa.gov/vehicle-safety/seat-belts>
 > - **US / Canada:** Required by law in every province and in almost every state.
 
 **Evidence grades** (same scale as the original):
@@ -207,49 +207,49 @@ Things that cost almost nothing and cut your odds of dying from something preven
 - **Cost:** Two seconds per trip.
 - **In plain English:** For people in the front seat of a car, a belt cuts the risk of a fatal injury by about 45%.
 - **Evidence:** A
-- **Source:** NHTSA, *Seat Belts*. https://www.nhtsa.gov/vehicle-safety/seat-belts
+- **Source:** NHTSA, *Seat Belts*. <https://www.nhtsa.gov/vehicle-safety/seat-belts>
 - **US / Canada:** Required in all provinces. New Hampshire is the one US state with no adult belt law for drivers.
 
 #### 2. Don't drive drunk, high, tired or on your phone
 - **Cost:** A ride-share fare, or a friend's couch.
 - **In plain English:** Alcohol-impaired crashes kill roughly 30% of everyone who dies on US roads each year. A DUI also costs thousands in fines, lawyers and insurance, and in Canada it can make you inadmissible to the US (and the reverse).
 - **Evidence:** A
-- **Source:** NHTSA, *Drunk Driving*. https://www.nhtsa.gov/risky-driving/drunk-driving
+- **Source:** NHTSA, *Drunk Driving*. <https://www.nhtsa.gov/risky-driving/drunk-driving>
 - **US / Canada:** Canada's federal criminal limit is 80 mg/100 mL; most provinces suspend licenses at 50. Cannabis-impaired driving is a crime in both countries even where cannabis is legal.
 
 #### 3. Put a working smoke alarm on every level and outside every bedroom; add a carbon monoxide alarm if you have gas, a fireplace or an attached garage
 - **Cost:** $20 to $50 per alarm, plus a battery check twice a year (when the clocks change).
-- **In plain English:** Most US home fire deaths happen in homes with no smoke alarm or one that doesn't work.
+- **In plain English:** The risk of dying in a reported home fire is about 54% lower in homes with working smoke alarms. Nearly 3 in 5 US home fire deaths happen where there's no alarm or the alarm didn't work, often because the battery was missing or dead.
 - **Evidence:** A
-- **Source:** NFPA, *Smoke Alarms in U.S. Home Fires* (report). [verify current figure and link]
+- **Source:** National Fire Protection Association (NFPA), *Smoke Alarms in U.S. Home Fires* (2012 to 2016 data).
 - **US / Canada:** Many states and provinces require CO alarms in homes with fuel-burning appliances. Ontario requires them in every home with a fuel-burning appliance or attached garage.
 
 #### 4. If there's a gun in the home, store it locked and unloaded, with ammunition locked separately
 - **Cost:** A lock box or safe, $30 to a few hundred dollars.
 - **In plain English:** Living in a home with a gun is linked to about three times the odds of dying by suicide. Most firearm suicides are impulsive, and a lock buys the minutes that matter. If someone in the house is in crisis, store guns outside the home for a while (a friend, a gun shop, or a range may hold them).
 - **Evidence:** A
-- **Source:** Anglemyer A, et al. (2014). The accessibility of firearms and risk for suicide and homicide victimization among household members. *Annals of Internal Medicine*. https://doi.org/10.7326/M13-1301
+- **Source:** Anglemyer A, et al. (2014). The accessibility of firearms and risk for suicide and homicide victimization among household members. *Annals of Internal Medicine*. <https://doi.org/10.7326/M13-1301>
 - **US / Canada:** This item is mainly for the US. Canada already requires safe storage by law.
 
 #### 5. If you or someone you know is in crisis, call or text 988
 - **Cost:** Free.
 - **In plain English:** 988 reaches a trained crisis counselor 24/7 in both countries. Telling one person about suicidal thoughts and handing them the next hour is the single most useful step.
 - **Evidence:** B
-- **Source:** 988 Suicide & Crisis Lifeline (US), https://988lifeline.org ; 9-8-8 Suicide Crisis Helpline (Canada), https://988.ca
+- **Source:** 988 Suicide & Crisis Lifeline (US), <https://988lifeline.org> ; 9-8-8 Suicide Crisis Helpline (Canada), <https://988.ca>
 - **US / Canada:** Same number in both countries. Veterans in the US press 1.
 
 #### 6. Keep naloxone (Narcan) at home, and never take a pill that didn't come from a pharmacy
-- **Cost:** Free in many places; around $45 for a two-pack over the counter in the US. [verify price]
+- **Cost:** Free in many places; about $45 or less for a two-dose pack over the counter in the US.
 - **In plain English:** Counterfeit pills sold as Xanax, Percocet or Adderall often contain fentanyl. One pill can kill. Naloxone reverses an opioid overdose and is safe to give even if you're wrong about what's going on.
 - **Evidence:** A
-- **Source:** FDA approval of over-the-counter naloxone nasal spray (2023); Government of Canada, *Naloxone*. https://www.canada.ca/en/health-canada/services/opioids/naloxone.html
+- **Source:** FDA approval of over-the-counter naloxone nasal spray (2023); Government of Canada, *Naloxone*. <https://www.canada.ca/en/health-canada/services/opioids/naloxone.html>
 - **US / Canada:** Canadian pharmacies in most provinces hand out free naloxone kits with no prescription.
 
 #### 7. Check your blood pressure, and treat it if it's high
 - **Cost:** Free at most pharmacies; a home cuff is $30 to $60.
 - **In plain English:** Lowering high blood pressure cuts heart attacks and strokes substantially. Most people with high blood pressure feel fine, so you only find out by measuring.
 - **Evidence:** A
-- **Source:** Ettehad D, et al. (2016). Blood pressure lowering for prevention of cardiovascular disease and death. *The Lancet*. https://doi.org/10.1016/S0140-6736(15)01225-8
+- **Source:** Ettehad D, et al. (2016). Blood pressure lowering for prevention of cardiovascular disease and death. *The Lancet*. <https://doi.org/10.1016/S0140-6736(15)01225-8>
 - **US / Canada:** Both countries' guidelines treat 130/80 or higher as worth a conversation with a doctor.
 
 #### 8. Get the cancer screenings that match your age
@@ -260,41 +260,42 @@ Things that cost almost nothing and cut your odds of dying from something preven
   - **Cervical:** from 21 (US) or 25 (most provinces); HPV testing every five years from 30 is the preferred option where it's offered.
   - **Lung:** a yearly low-dose CT scan if you're 50 to 80 and smoked heavily (20 pack-years) within the last 15 years.
 - **Evidence:** A
-- **Source:** US Preventive Services Task Force, https://www.uspreventiveservicestaskforce.org ; Canadian Task Force on Preventive Health Care, https://canadiantaskforce.ca ; provincial cancer agencies.
+- **Source:** US Preventive Services Task Force, <https://www.uspreventiveservicestaskforce.org> ; Canadian Task Force on Preventive Health Care, <https://canadiantaskforce.ca> ; provincial cancer agencies.
 - **US / Canada:** Ages differ by province. Check your provincial cancer agency's site.
 
 #### 9. Stay up to date on the adult vaccines that actually prevent deaths
 - **Cost:** Usually $0 with insurance or provincial programs.
 - **In plain English:** Yearly flu shot, especially over 65 or with heart or lung disease. Shingles vaccine (Shingrix) from 50. Pneumococcal vaccine from 50 in the US and 65 in Canada (earlier with certain conditions). Hepatitis B if you've never had it. HPV vaccine through age 26, and up to 45 after talking to a doctor.
 - **Evidence:** A
-- **Source:** CDC Adult Immunization Schedule; National Advisory Committee on Immunization (NACI), *Canadian Immunization Guide*. [verify current US schedule after 2025 ACIP changes]
+- **Source:** CDC (2024), *CDC Recommends Lowering the Age for Pneumococcal Vaccination from 65 to 50 Years Old* ; National Advisory Committee on Immunization (NACI), *Canadian Immunization Guide*.
+- **Note:** The US federal vaccine schedule has been changed and challenged in court since 2025. Ask your doctor or pharmacist what's recommended for you now.
 - **US / Canada:** In Canada, which vaccines are free depends on the province.
 
 #### 10. Use a car seat for kids, rear-facing as long as the seat allows
 - **Cost:** $100 to $300; many fire stations and hospitals check installation for free.
 - **In plain English:** Car seats cut the risk of death in a crash by about 71% for infants and 54% for toddlers in passenger cars.
 - **Evidence:** A
-- **Source:** NHTSA, *Car Seats and Booster Seats*. https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats
+- **Source:** NHTSA, *Car Seats and Booster Seats*. <https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats>
 - **US / Canada:** Transport Canada has the equivalent guidance; never use a seat bought outside Canada (it won't carry the Canadian safety mark).
 
 #### 11. Keep kids within arm's reach near water, and wear a life jacket on boats
 - **Cost:** Attention; a life jacket is $30 to $80.
 - **In plain English:** Drowning is the leading cause of death for US children ages 1 to 4. It is quick and silent, not splashing and shouting.
 - **Evidence:** A
-- **Source:** CDC, *Drowning Facts*. https://www.cdc.gov/drowning/
+- **Source:** CDC, *Drowning Facts*. <https://www.cdc.gov/drowning/>
 - **US / Canada:** Pool fencing with a self-latching gate is required in many jurisdictions.
 
 #### 12. Over 60, train balance and leg strength, and add grab bars in the bathroom
 - **Cost:** A few sessions a week; grab bars are $30 to $100 each.
-- **In plain English:** Exercise programs cut the rate of falls among older adults by about 23%. Falls are the top cause of injury death for adults over 65 in both countries.
+- **In plain English:** Exercise programs, especially balance and functional training, cut the rate of falls among older adults living at home by about 23%. Falls are the top cause of injury death for adults over 65 in both countries.
 - **Evidence:** A
-- **Source:** Sherrington C, et al. (2019). Exercise for preventing falls in older people living in the community. *Cochrane Database of Systematic Reviews*. https://doi.org/10.1002/14651858.CD012424.pub2
+- **Source:** Sherrington C, et al. (2019). Exercise for preventing falls in older people living in the community. *Cochrane Database of Systematic Reviews*. <https://doi.org/10.1002/14651858.CD012424.pub2>
 
 #### 13. Wear a helmet when biking, skiing, snowboarding, or riding a scooter or motorcycle
 - **Cost:** $50 to $150 for a helmet.
 - **In plain English:** In a review of 40 studies of 64,000 cyclists, helmets were linked to about 69% lower odds of serious head injury and 65% lower odds of a fatal one.
 - **Evidence:** A
-- **Source:** Olivier J, Creighton P (2017). Bicycle injuries and helmet use: a systematic review and meta-analysis. *International Journal of Epidemiology*. https://doi.org/10.1093/ije/dyw153
+- **Source:** Olivier J, Creighton P (2017). Bicycle injuries and helmet use: a systematic review and meta-analysis. *International Journal of Epidemiology*. <https://doi.org/10.1093/ije/dyw153>
 - **Note:** These are odds from mostly observational studies, and the paper has critics.
 
 ### Don't die slowly
@@ -305,31 +306,31 @@ Habits that add up over decades.
 - **Cost:** Often free; most US plans must cover cessation drugs, and provinces have free programs.
 - **In plain English:** Quitting before 40 gets back nearly all the years smoking would have cost you. Varenicline (Chantix/Champix) or combination nicotine replacement roughly doubles the chance of quitting compared with willpower alone.
 - **Evidence:** A
-- **Source:** Jha P, et al. (2013). 21st-century hazards of smoking and benefits of cessation in the United States. *NEJM*. https://doi.org/10.1056/NEJMsa1211128 ; Livingstone-Banks J, et al. (2023), Cochrane review of nicotine receptor partial agonists.
+- **Source:** Jha P, et al. (2013). 21st-century hazards of smoking and benefits of cessation in the United States. *NEJM*. <https://doi.org/10.1056/NEJMsa1211128> ; Livingstone-Banks J, et al. (2023), Cochrane review of nicotine receptor partial agonists.
 - **US / Canada:** Free coaching: 1-800-QUIT-NOW (US); 1-866-366-3667 (Canada).
 
 #### 2. Walk 7,000 to 8,000 steps a day, or about 150 minutes of brisk walking a week
 - **Cost:** 30 to 60 minutes a day.
-- **In plain English:** Compared with people taking about 4,000 steps a day, people taking 7,000 to 10,000 had roughly 40 to 50% lower death rates over the follow-up period. The benefit levels off after that.
+- **In plain English:** Compared with people taking about 3,500 steps a day, people taking about 5,800 to 10,900 had roughly 40% to 53% lower death rates over about seven years. The benefit leveled off at about 6,000 to 8,000 steps for people 60 and older, and 8,000 to 10,000 for younger adults.
 - **Evidence:** A (observational)
-- **Source:** Paluch AE, et al. (2022). Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. *Lancet Public Health*. https://doi.org/10.1016/S2468-2667(21)00302-9
+- **Source:** Paluch AE, et al. (2022). Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. *Lancet Public Health*. <https://doi.org/10.1016/S2468-2667(21)00302-9>
 
 #### 3. Lift something heavy 30 to 60 minutes a week
 - **Cost:** A couple of short sessions; body weight or a $50 set of bands works.
 - **Evidence:** A (observational)
-- **Source:** Momma H, et al. (2022). Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases. *British Journal of Sports Medicine*. https://doi.org/10.1136/bjsports-2021-105061
+- **Source:** Momma H, et al. (2022). Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases. *British Journal of Sports Medicine*. <https://doi.org/10.1136/bjsports-2021-105061>
 
 #### 4. Cut sugary drinks, including big coffee-shop drinks
 - **Cost:** Some habit change; saves money.
 - **In plain English:** A large flavored iced coffee or a 20 oz soda can carry 50+ grams of sugar. Regular sugary-drink intake is tied to type 2 diabetes and heart disease.
 - **Evidence:** A (observational)
-- **Source:** Malik VS, Hu FB (2022). The role of sugar-sweetened beverages in the global epidemics of obesity and chronic diseases. *Nature Reviews Endocrinology*. https://doi.org/10.1038/s41574-022-00627-6
+- **Source:** Malik VS, Hu FB (2022). The role of sugar-sweetened beverages in the global epidemics of obesity and chronic diseases. *Nature Reviews Endocrinology*. <https://doi.org/10.1038/s41574-021-00627-6>
 
 #### 5. Swap regular salt for a potassium salt substitute (if your kidneys are healthy)
 - **Cost:** A few dollars more per container. Look for "lite salt" or salt substitute.
 - **In plain English:** In a large trial of older people with high blood pressure or a past stroke, switching to a salt substitute cut deaths by about 12% and strokes by about 14%. Most sodium in North American diets comes from restaurant and packaged food, so this helps less if you rarely cook.
 - **Evidence:** A
-- **Source:** Neal B, et al. (2021). Effect of Salt Substitution on Cardiovascular Events and Death. *NEJM*. https://doi.org/10.1056/NEJMoa2105675
+- **Source:** Neal B, et al. (2021). Effect of Salt Substitution on Cardiovascular Events and Death. *NEJM*. <https://doi.org/10.1056/NEJMoa2105675>
 - **Note:** Disputed for healthy young adults. Skip it and ask a doctor if you have kidney disease or take potassium-sparing drugs.
 
 #### 6. Eat less processed meat (bacon, hot dogs, deli meat)
@@ -339,13 +340,13 @@ Habits that add up over decades.
 #### 7. Drink less alcohol; if you drink every day and get the shakes when you stop, don't quit cold turkey alone
 - **In plain English:** Severe alcohol withdrawal can cause seizures and can kill. A doctor can manage it safely.
 - **Evidence:** A
-- **Source:** Canadian Centre on Substance Use and Addiction (2023), *Canada's Guidance on Alcohol and Health* ; NIAAA, *Rethinking Drinking*. https://www.rethinkingdrinking.niaaa.nih.gov
+- **Source:** Canadian Centre on Substance Use and Addiction (2023), *Canada's Guidance on Alcohol and Health* ; NIAAA, *Rethinking Drinking*. <https://www.rethinkingdrinking.niaaa.nih.gov>
 - **Risk ladder (Canada's 2023 guidance):** 0 drinks a week, no added risk; up to 2, low; 3 to 6, moderate (higher risk of 7 cancers); 7 or more, increasingly high. A standard drink is a 12 oz (341 mL) 5% beer, a 5 oz (142 mL) glass of 12% wine, or 1.5 oz (43 mL) of spirits.
-- **US / Canada:** Canada's guidance is stricter than the US one. US dietary guidelines have been looser. [verify current US guidance]
+- **US / Canada:** The 2025 to 2030 US Dietary Guidelines dropped their old daily limits and now just say to drink less. Canada's ladder is the more specific guide.
 
 #### 8. Sleep about 7 hours at regular times
 - **Evidence:** A (observational)
-- **Source:** Cappuccio FP, et al. (2010). Sleep duration and all-cause mortality. *Sleep*. https://doi.org/10.1093/sleep/33.5.585
+- **Source:** Cappuccio FP, et al. (2010). Sleep duration and all-cause mortality. *Sleep*. <https://doi.org/10.1093/sleep/33.5.585>
 
 #### 9. Brush twice a day and floss or use interdental brushes
 - **Evidence:** B
@@ -354,32 +355,32 @@ Habits that add up over decades.
 - **Cost:** $40 for a DIY box-fan filter; $100+ for a purifier.
 - **In plain English:** Smoke from western US and Canadian wildfires now reaches the East every summer. Fine particles (PM2.5) are linked to heart and lung problems. A DIY filter fan cuts indoor particles a lot for very little money.
 - **Evidence:** B
-- **Source:** US EPA, *Wildfires and Indoor Air Quality*. https://www.epa.gov/indoor-air-quality-iaq/wildfires-and-indoor-air-quality-iaq ; Environment and Climate Change Canada, Air Quality Health Index.
+- **Source:** US EPA, *Wildfires and Indoor Air Quality*. <https://www.epa.gov/indoor-air-quality-iaq/wildfires-and-indoor-air-quality-iaq> ; Environment and Climate Change Canada, Air Quality Health Index.
 
 #### 11. See or call a friend every week, and join one thing that meets regularly
 - **Cost:** An hour or two a week.
 - **In plain English:** Loneliness and social isolation are linked to roughly 26% to 29% higher risk of early death, about as much as smoking up to 15 cigarettes a day. A standing commitment (a team, a class, a faith group, volunteering) does more than good intentions.
 - **Evidence:** A (observational)
-- **Source:** US Surgeon General (2023), *Our Epidemic of Loneliness and Isolation*. https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf ; Holt-Lunstad J, et al. (2015). *Perspectives on Psychological Science*. https://doi.org/10.1177/1745691614568352
+- **Source:** US Surgeon General (2023), *Our Epidemic of Loneliness and Isolation*. <https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf> ; Holt-Lunstad J, et al. (2015). *Perspectives on Psychological Science*. <https://doi.org/10.1177/1745691614568352>
 
 #### 12. Sit less: aim for 8 hours or less of sitting a day, and break up long stretches
 - **Cost:** A timer, or standing for phone calls.
 - **In plain English:** Sitting for most of the day is linked to higher death rates, and walking 150 minutes a week doesn't fully cancel it out for people who sit very long hours.
 - **Evidence:** A (observational)
-- **Source:** Canadian Society for Exercise Physiology, *Canadian 24-Hour Movement Guidelines for Adults*. https://csepguidelines.ca ; Ekelund U, et al. (2016). *The Lancet*. https://doi.org/10.1016/S0140-6736(16)30370-1
+- **Source:** Canadian Society for Exercise Physiology, *Canadian 24-Hour Movement Guidelines for Adults*. <https://csepguidelines.ca> ; Ekelund U, et al. (2016). *The Lancet*. <https://doi.org/10.1016/S0140-6736(16)30370-1>
 
 #### 13. Wear sunscreen and check your skin
 - **Cost:** A bottle of SPF 30+ sunscreen, a hat, and a look at your skin every few months.
-- **In plain English:** Skin cancer is the most common cancer in both countries. Daily sunscreen use halved melanoma in a long-term randomized trial. See a doctor for a spot that's new, changing, bleeding, or looks different from your others.
+- **In plain English:** Skin cancer is the most common cancer in both countries. In a long-term randomized trial, people assigned to daily sunscreen had about half as many new melanomas over 10 years (a borderline result, but in line with other evidence). See a doctor for a spot that's new, changing, bleeding, or looks different from your others.
 - **Evidence:** A
-- **Source:** Green AC, et al. (2011). Reduced melanoma after regular sunscreen use: randomized trial follow-up. *Journal of Clinical Oncology*. https://doi.org/10.1200/JCO.2010.28.7078 ; CDC, *Skin Cancer* ; Canadian Cancer Society.
+- **Source:** Green AC, et al. (2011). Reduced melanoma after regular sunscreen use: randomized trial follow-up. *Journal of Clinical Oncology*. <https://doi.org/10.1200/JCO.2010.28.7078> ; CDC, *Skin Cancer* ; Canadian Cancer Society.
 - **Note:** Never use tanning beds.
 
 #### 14. Protect your hearing, and get it tested if conversations are getting harder
 - **Cost:** Foam earplugs for loud events and power tools; a hearing test.
 - **In plain English:** Hearing loss in midlife is one of the largest changeable risk factors for dementia. Hearing aids may reduce that risk, and over-the-counter hearing aids are now sold in the US for mild to moderate loss.
 - **Evidence:** B
-- **Source:** Livingston G, et al. (2024). Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. *The Lancet*. https://doi.org/10.1016/S0140-6736(24)01296-0 [verify DOI]
+- **Source:** Livingston G, et al. (2024). Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. *The Lancet*. <https://doi.org/10.1016/S0140-6736(24)01296-0>
 
 ### Emergencies: what to do first
 
@@ -387,7 +388,7 @@ Habits that add up over decades.
 - **Cost:** A free 30-minute online course; a few hours for a full CPR class.
 - **In plain English:** Bystander CPR roughly doubles or triples survival from cardiac arrest. Most cardiac arrests happen at home, so the person you save is probably family. Hands-only CPR is fine for adults.
 - **Evidence:** A
-- **Source:** American Heart Association, *Hands-Only CPR*. https://cpr.heart.org ; Heart and Stroke Foundation of Canada.
+- **Source:** American Heart Association, *Hands-Only CPR*. <https://cpr.heart.org> ; Heart and Stroke Foundation of Canada.
 - **US / Canada:** Every state and province has a Good Samaritan law protecting people who help in good faith. In Quebec you are actually required to help someone whose life is in danger if you can do so without serious risk to yourself (Quebec Charter of Human Rights and Freedoms, s. 2).
 
 #### 2. Face drooping, arm weak, speech slurred: call 911 right away, don't drive yourself
@@ -402,13 +403,14 @@ Habits that add up over decades.
 #### 4. For heavy bleeding, press hard on the wound; for an arm or leg that won't stop, use a tourniquet high and tight
 - **Cost:** A free *Stop the Bleed* class; a real tourniquet is about $30 (buy from a reputable seller; knockoffs fail).
 - **Evidence:** B
-- **Source:** American College of Surgeons, *Stop the Bleed*. https://www.stopthebleed.org
+- **Source:** American College of Surgeons, *Stop the Bleed*. <https://www.stopthebleed.org>
 
 #### 5. Poisoning or a child swallowed something: call poison control before doing anything else
 - **Cost:** Free, 24/7.
 - **In plain English:** Most calls are handled at home with no ER visit. Don't make anyone throw up.
 - **Evidence:** B
-- **Source:** America's Poison Centers, 1-800-222-1222 ; Canada: 1-844-POISON-X (1-844-764-7669). [verify Canadian number coverage by province]
+- **Source:** America's Poison Centers, 1-800-222-1222 ; Health Canada, 1-844-POISON-X (1-844-764-7669).
+- **US / Canada:** The Canadian number routes you to your local poison centre everywhere except Quebec (call 1-800-463-5060) and Nunavut (call your local health centre).
 
 #### 6. If the CO alarm goes off or everyone in the house has a headache and nausea, get outside first, then call 911
 - **Evidence:** A
@@ -437,7 +439,7 @@ Habits that add up over decades.
 - **Cost:** About $600 to $1,200 for a set, which lasts several seasons; a kit with a blanket, shovel, scraper, snacks and a phone charger.
 - **In plain English:** All-season tires lose much of their grip below about 45°F (7°C). Winter tires cut stopping distances on snow and ice and are linked to fewer crashes. If you get stuck, stay with the car, keep the tailpipe clear of snow, and run the engine only in short bursts.
 - **Evidence:** B
-- **Source:** Transport Canada, *Winter driving* ; Quebec's Highway Safety Code (winter tires required December 1 to March 15). [verify crash-reduction figures]
+- **Source:** Société de l'assurance automobile du Québec (SAAQ), *Winter tires* (required December 1 to March 15) ; Transport Canada (2019), briefing on winter tires (winter collisions in Quebec fell 19% after the tire standard was updated, versus 4% across Canada) ; Manitoba Public Insurance (winter tires linked to about 6% fewer collision claims).
 - **US / Canada:** Required by law in Quebec; British Columbia requires them (or chains) on many highways in winter.
 
 #### 2. In extreme cold, cover skin and know the signs of frostbite and hypothermia
@@ -457,7 +459,7 @@ Habits that add up over decades.
 - **Cost:** Reading the label.
 - **In plain English:** Acetaminophen is in hundreds of combination products. Taking two at once is a common way people overdose by accident, and it is a leading cause of acute liver failure in the US. Don't go over the daily limit on the label.
 - **Evidence:** A
-- **Source:** FDA, *Acetaminophen Information*. https://www.fda.gov/drugs/information-drug-class/acetaminophen-information
+- **Source:** FDA, *Acetaminophen Information*. <https://www.fda.gov/drugs/information-drug-class/acetaminophen-information>
 - **US / Canada:** Same drug and same risk in both countries; Canada uses the same name.
 
 #### 2. Don't give aspirin to children or teens with a fever or viral illness
@@ -490,14 +492,14 @@ Habits that add up over decades.
 - **Cost:** Time to find one. In the US, a free preventive visit on most plans; in Canada, joining your province's family doctor wait list.
 - **In plain English:** Having a regular doctor or nurse practitioner is linked to lower death rates and fewer ER visits. They also catch slow problems like blood pressure and diabetes that urgent care and walk-in clinics miss.
 - **Evidence:** A (observational)
-- **Source:** Basu S, et al. (2019). Association of Primary Care Physician Supply With Population Mortality in the United States. *JAMA Internal Medicine*. https://doi.org/10.1001/jamainternmed.2018.7624
-- **US / Canada:** In Canada, sign up with your province's patient registry (for example, Health Care Connect in Ontario). [verify registry names]
+- **Source:** Basu S, et al. (2019). Association of Primary Care Physician Supply With Population Mortality in the United States. *JAMA Internal Medicine*. <https://doi.org/10.1001/jamainternmed.2018.7624>
+- **US / Canada:** In Canada, sign up with your province's patient registry (for example, Health Care Connect in Ontario, reached through 811).
 
 #### 3. Take long-term meds exactly as prescribed, and ask before stopping
 - **Cost:** A pill organizer or phone reminder.
 - **In plain English:** Skipping or stopping blood pressure, cholesterol or diabetes medicine is common and is linked to more heart attacks, strokes and deaths. If a side effect or cost is the problem, there's usually another option. Ask.
 - **Evidence:** A (observational)
-- **Source:** Chowdhury R, et al. (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. *European Heart Journal*. https://doi.org/10.1093/eurheartj/eht295
+- **Source:** Chowdhury R, et al. (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. *European Heart Journal*. <https://doi.org/10.1093/eurheartj/eht295>
 
 #### 4. Ask for generics, and ask whether a test will change what happens next
 - **In plain English:** Generics must match the brand-name drug's active ingredient and strength and are much cheaper. Before an extra scan or test, asking "Would the result change my treatment?" avoids a lot of follow-up tests chasing harmless findings.
@@ -507,7 +509,7 @@ Habits that add up over decades.
 #### 5. Bring someone with you to big appointments, and write down what the doctor says
 - **In plain English:** People forget a large share of what they're told at medical visits, especially after bad news.
 - **Evidence:** B
-- **Source:** Kessels RPC (2003). Patients' memory for medical information. *Journal of the Royal Society of Medicine*. https://doi.org/10.1177/014107680309600504
+- **Source:** Kessels RPC (2003). Patients' memory for medical information. *Journal of the Royal Society of Medicine*. <https://doi.org/10.1177/014107680309600504>
 
 ### (US) Insurance and medical bills
 
@@ -515,7 +517,8 @@ Habits that add up over decades.
 - **Cost:** $0 for in-network screenings, checkups, and recommended vaccines on most plans.
 - **In plain English:** Under the Affordable Care Act, most plans must cover recommended preventive services with no copay. Say "preventive visit" when booking. If the doctor also treats a new problem at the same visit, that part may be billed.
 - **Evidence:** A
-- **Source:** HealthCare.gov, *Preventive care benefits for adults*. https://www.healthcare.gov/preventive-care-adults/ [verify after 2025 court rulings on USPSTF]
+- **Source:** HealthCare.gov, *Preventive care benefits for adults*. <https://www.healthcare.gov/preventive-care-adults/>
+- **Note:** In June 2025, the Supreme Court upheld this requirement (*Kennedy v. Braidwood Management*).
 
 #### 2. (US) Check that the doctor, lab and hospital are in network before non-emergency care
 - **Cost:** A 5-minute call or website check.
@@ -526,13 +529,13 @@ Habits that add up over decades.
 - **Cost:** Free.
 - **In plain English:** If you get a surprise bill, don't pay it right away. Uninsured or self-pay patients are entitled to a written Good Faith Estimate and can dispute a bill that's $400+ above it.
 - **Evidence:** A
-- **Source:** CMS, *No Surprises*. https://www.cms.gov/nosurprises
+- **Source:** CMS, *No Surprises*. <https://www.cms.gov/nosurprises>
 
 #### 4. (US) Ask any nonprofit hospital for its financial assistance policy, and ask for an itemized bill
 - **Cost:** A phone call and a form.
 - **In plain English:** Nonprofit hospitals must have written financial assistance policies and must make them available before aggressive collections. Many people who qualify for free or reduced care never apply.
 - **Evidence:** A
-- **Source:** IRS, *Requirements for 501(c)(3) Hospitals Under the Affordable Care Act – Section 501(r)*. https://www.irs.gov/charities-non-profits/charitable-organizations/requirements-for-501c3-hospitals-under-the-affordable-care-act-section-501r
+- **Source:** IRS, *Requirements for 501(c)(3) Hospitals Under the Affordable Care Act – Section 501(r)*. <https://www.irs.gov/charities-non-profits/charitable-organizations/requirements-for-501c3-hospitals-under-the-affordable-care-act-section-501r>
 
 #### 5. (US) Compare the cash price of generic drugs before using insurance
 - **Cost:** A minute on a discount-card site or Cost Plus Drugs.
@@ -541,7 +544,7 @@ Habits that add up over decades.
 
 #### 6. (US) If you have a high-deductible plan, fund an HSA; it's the only account that's tax-free going in, growing, and coming out for medical costs
 - **Evidence:** A
-- **Source:** IRS Publication 969. https://www.irs.gov/publications/p969
+- **Source:** IRS Publication 969. <https://www.irs.gov/publications/p969>
 
 ### Pregnancy and babies
 
@@ -549,7 +552,7 @@ Habits that add up over decades.
 - **Cost:** Free.
 - **In plain English:** No pillows, bumpers, blankets or stuffed animals, and no sleeping on a couch with the baby. Room-sharing without bed-sharing is the recommendation for the first six months.
 - **Evidence:** A
-- **Source:** American Academy of Pediatrics (2022), *Sleep-Related Infant Deaths: Updated 2022 Recommendations*. https://doi.org/10.1542/peds.2022-057990 ; Public Health Agency of Canada, *Safe sleep*.
+- **Source:** American Academy of Pediatrics (2022), *Sleep-Related Infant Deaths: Updated 2022 Recommendations*. <https://doi.org/10.1542/peds.2022-057990> ; Public Health Agency of Canada, *Safe sleep*.
 
 #### 2. If you could get pregnant, take 400 mcg of folic acid a day
 - **Cost:** A few dollars a month.
@@ -560,7 +563,8 @@ Habits that add up over decades.
 #### 3. Follow your baby's vaccine schedule and keep the record
 - **In plain English:** Schools and daycares will ask for it, and it's hard to rebuild later.
 - **Evidence:** A
-- **Source:** Your provincial immunization schedule ; CDC child schedule. [verify current US schedule]
+- **Source:** American Academy of Pediatrics immunization schedule ; your provincial immunization schedule.
+- **Note:** The US federal childhood schedule has been changed and challenged in court since 2025, including the hepatitis B birth dose. Your pediatrician can tell you what's recommended now.
 
 ### Don't harm your body for looks
 
@@ -599,7 +603,7 @@ This is a common rule of thumb, not a law. It comes from CFPB's *Your Money, You
 
 #### 1. Cancel subscriptions you don't use; set a calendar reminder before every free trial ends
 - **Evidence:** C
-- **Note:** The FTC's 2024 "click to cancel" rule was struck down by a federal court in 2025, so canceling may still take a phone call. Some states (like California) have their own rules. [verify]
+- **Note:** The FTC's 2024 "click to cancel" rule was struck down by a federal appeals court in July 2025, so canceling may still take a phone call. Some states, including California, have their own easy-cancel laws.
 
 #### 2. Get your employer's full 401(k) or group RRSP match before doing anything else with savings
 - **Cost:** A few percent of your paycheck.
@@ -609,7 +613,7 @@ This is a common rule of thumb, not a law. It comes from CFPB's *Your Money, You
 #### 3. Keep 3 to 6 months of expenses in a high-yield savings account
 - **In plain English:** Big-bank savings accounts often pay close to nothing. Online banks (FDIC-insured in the US, CDIC-insured in Canada) often pay much more.
 - **Evidence:** C
-- **Source:** FDIC, https://www.fdic.gov ; CDIC, https://www.cdic.ca
+- **Source:** FDIC, <https://www.fdic.gov> ; CDIC, <https://www.cdic.ca>
 
 #### 4. Invest long-term money in low-cost broad index funds or ETFs
 - **In plain English:** Over 15 years, the large majority of actively managed US stock funds do worse than their index. Fees compound against you. A 1% fee can eat a quarter of your ending balance over 30 years.
@@ -632,7 +636,7 @@ This is a common rule of thumb, not a law. It comes from CFPB's *Your Money, You
 #### 8. Price the whole car, not the monthly payment; skip dealer add-ons
 - **In plain English:** "What payment are you looking for?" is how dealers hide price, interest rate and add-ons (paint protection, VIN etching, gap insurance at markup) in a longer loan. Get pre-approved by a credit union first.
 - **Evidence:** C
-- **Source:** CFPB, *Auto loans*. https://www.consumerfinance.gov/consumer-tools/auto-loans/
+- **Source:** CFPB, *Auto loans*. <https://www.consumerfinance.gov/consumer-tools/auto-loans/>
 
 #### 9. Don't play the lottery or sports betting as a money plan
 - **In plain English:** State and provincial lotteries pay back roughly 50 to 65 cents per dollar on average. Sports betting apps are built for repeat play.
@@ -649,19 +653,19 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 1. Pay every credit card in full every month; set up autopay for at least the minimum as a backstop
 - **In plain English:** Card interest rates are often above 20% a year. Payment history is the biggest single part of your score.
 - **Evidence:** A
-- **Source:** CFPB, *Credit cards*. https://www.consumerfinance.gov/consumer-tools/credit-cards/
+- **Source:** CFPB, *Credit cards*. <https://www.consumerfinance.gov/consumer-tools/credit-cards/>
 
 #### 2. Check your credit reports for free
 - **Cost:** Free.
 - **In plain English:** Errors are common and you can dispute them.
 - **Evidence:** A
-- **Source:** US: https://www.annualcreditreport.com (free weekly reports from Equifax, Experian and TransUnion). Canada: free reports directly from Equifax Canada and TransUnion Canada.
+- **Source:** US: <https://www.annualcreditreport.com> (free weekly reports from Equifax, Experian and TransUnion). Canada: free reports directly from Equifax Canada and TransUnion Canada.
 
 #### 3. Freeze your credit if you're not applying for loans
 - **Cost:** Free in the US; a few minutes per bureau.
 - **In plain English:** A freeze stops anyone from opening new credit in your name. Lift it for a day when you need to apply.
 - **Evidence:** A
-- **Source:** FTC, *Credit Freezes and Fraud Alerts*. https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts
+- **Source:** FTC, *Credit Freezes and Fraud Alerts*. <https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts>
 - **US / Canada:** Quebec gives residents a legal right to a security freeze. Elsewhere in Canada, bureaus offer a "lock" or fraud alert instead.
 
 #### 4. Keep your oldest card open and use less than 30% of your limit
@@ -674,7 +678,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 6. Never take a payday loan or a rent-to-own deal
 - **In plain English:** A typical two-week US payday loan costs around 400% APR. Ask your bank, a credit union, or your employer about a small loan or advance first.
 - **Evidence:** A
-- **Source:** CFPB, *What is a payday loan?* ; in Canada, the criminal interest rate cap dropped to 35% APR in 2025 and payday loan costs are capped at $14 per $100. [verify]
+- **Source:** CFPB, *What is a payday loan?* ; in Canada, the criminal interest rate fell to 35% APR on January 1, 2025, and payday loans are capped at $14 per $100 borrowed (still about 350% a year on a two-week loan).
 
 #### 7. Don't co-sign a loan unless you're ready to pay all of it
 - **In plain English:** Co-signing makes you fully liable, and late payments hit your score too.
@@ -686,12 +690,12 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 1. File every year even with little or no income
 - **In plain English:** In Canada, filing is the key that unlocks the Canada Child Benefit, GST/HST credit, and provincial credits. In the US, low earners can get the Earned Income Tax Credit and a refund of withheld tax only by filing.
 - **Evidence:** A
-- **Source:** CRA, *Benefits and credits* ; IRS, *Earned Income Tax Credit*. https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc
+- **Source:** CRA, *Benefits and credits* ; IRS, *Earned Income Tax Credit*. <https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc>
 
 #### 2. Use free tax prep instead of paying for "max refund" software you don't need
 - **In plain English:** If your return is simple, free volunteer clinics and free filing options exist in both countries.
 - **Evidence:** A
-- **Source:** IRS Free File and VITA (US), https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers ; CRA Community Volunteer Income Tax Program (Canada).
+- **Source:** IRS Free File and VITA (US), <https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers> ; CRA Community Volunteer Income Tax Program (Canada).
 
 #### 3. Never pay the IRS or CRA in gift cards, crypto or wire transfers to someone who called you
 - **In plain English:** Neither agency calls threatening arrest or demanding gift cards. Hang up and call the number on the official website.
@@ -708,14 +712,14 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 ### (US) Retirement and education savings
 
 #### 1. (US) Decide when to claim Social Security on purpose; don't default to 62
-- **In plain English:** Claiming at 62 cuts your monthly check by about 30% for life compared with your full retirement age (67 for most people today). Waiting until 70 raises it by about 24%. If you're healthy and can afford to wait, waiting usually pays off if you live past your early 80s. It also raises a surviving spouse's benefit.
+- **In plain English:** Claiming at 62 cuts your monthly check by about 30% for life compared with your full retirement age (67 for most people today). Waiting until 70 raises it by about 24% over the full-retirement-age amount. If you're healthy and can afford to wait, waiting usually pays off if you live past your early 80s. It also raises a surviving spouse's benefit.
 - **Evidence:** A
-- **Source:** SSA, *Retirement Benefits: Benefits Planner*. https://www.ssa.gov/benefits/retirement/planner/agereduction.html [verify percentages]
+- **Source:** SSA, *Retirement Benefits: Benefits Planner*. <https://www.ssa.gov/benefits/retirement/planner/agereduction.html>
 
 #### 2. (US) Sign up for Medicare on time around your 65th birthday
 - **In plain English:** If you don't have job-based coverage from a current employer, missing the seven-month window around your 65th birthday adds a permanent 10% surcharge to your Part B premium for each full year you were late.
 - **Evidence:** A
-- **Source:** Medicare.gov, *Avoid penalties*. https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties
+- **Source:** Medicare.gov, *Avoid penalties*. <https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties>
 
 #### 3. (US) Saving for a child's education? Use a 529 plan
 - **In plain English:** Growth is tax-free when used for qualified education costs, and many states give a state tax deduction for contributions to their own plan.
@@ -733,7 +737,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 2. Check what you qualify for before you run out
 - **In plain English:** US: SNAP (food), Medicaid and CHIP (health coverage), WIC (pregnant people and young kids), LIHEAP (heating bills). Canada: provincial income and disability assistance, the Canada Child Benefit, and GST/HST credit, most of which require a filed tax return. Many eligible people never apply.
 - **Evidence:** A
-- **Source:** USA.gov, *Government benefits* https://www.usa.gov/benefits ; Government of Canada, *Benefits Finder* https://www.canada.ca/en/services/benefits.html
+- **Source:** USA.gov, *Government benefits* <https://www.usa.gov/benefits> ; Government of Canada, *Benefits Finder* <https://www.canada.ca/en/services/benefits.html>
 
 #### 3. Use food banks without guilt
 - **In plain English:** Most food banks ask few or no questions. Using one so you can pay rent is better than missing rent.
@@ -771,7 +775,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 
 #### 1. Turn on two-factor authentication on email, bank and social accounts; use passkeys where offered
 - **Evidence:** B
-- **Source:** CISA, *More than a Password*. https://www.cisa.gov/MFA
+- **Source:** CISA, *More than a Password*. <https://www.cisa.gov/MFA>
 
 #### 2. Use a password manager and a unique password for your email
 - **In plain English:** Your email resets every other account.
@@ -789,7 +793,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 5. Any message that's urgent, secret, and wants gift cards, crypto, wire or a courier to pick up cash is a scam
 - **In plain English:** Grandparent scams, "your bank account is compromised," fake Amazon or Canada Post texts, romance scams, and job offers that send you a check to deposit all follow this pattern.
 - **Evidence:** A
-- **Source:** FTC, *Consumer Sentinel* data, https://reportfraud.ftc.gov ; Canadian Anti-Fraud Centre, https://antifraudcentre-centreantifraude.ca
+- **Source:** FTC, *Consumer Sentinel* data, <https://reportfraud.ftc.gov> ; Canadian Anti-Fraud Centre, <https://antifraudcentre-centreantifraude.ca>
 
 #### 6. Agree on a family code word for "it's really me" calls
 - **In plain English:** AI voice cloning makes a short clip of someone's voice enough to fake a panicked call.
@@ -798,7 +802,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 7. Guard your SSN or SIN; give it only for taxes, employment, banks and government
 - **In plain English:** Landlords and many businesses don't need it. Ask why, and offer an alternative.
 - **Evidence:** C
-- **US / Canada:** In Canada, many businesses legally can't refuse service just because you won't give your SIN. [verify]
+- **US / Canada:** In Canada, Service Canada says you can't be denied a product or service for refusing to give your SIN when the law doesn't require it. That includes renting and signing up for phone or internet.
 
 ### Your home
 
@@ -829,12 +833,12 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** A $15 to $50 test kit and a few months of waiting (long-term tests are more accurate).
 - **In plain English:** Radon is an invisible, odorless gas from the ground. It's the leading cause of lung cancer in people who have never smoked. High levels are common in parts of both countries and can't be guessed from your neighbor's house. Fixing it (a vent pipe and fan) usually costs a few thousand dollars.
 - **Evidence:** A
-- **Source:** US EPA, *A Citizen's Guide to Radon*. https://www.epa.gov/radon ; Health Canada, *Radon*. https://www.canada.ca/en/health-canada/services/environmental-workplace-health/radiation/radon.html
-- **US / Canada:** The action level is 4 pCi/L in the US and 200 Bq/m³ in Canada (Canada's is slightly stricter).
+- **Source:** US EPA, *A Citizen's Guide to Radon*. <https://www.epa.gov/radon> ; Health Canada, *Radon*. <https://www.canada.ca/en/health-canada/services/environmental-workplace-health/radiation/radon.html>
+- **US / Canada:** The action level is 4 pCi/L in the US and 200 Bq/m³ in Canada (the US level is lower, so it's the stricter of the two).
 
 #### 7. In an older home, assume the paint has lead until tested, especially with kids
 - **Cost:** A test kit, or hiring a certified renovator for sanding and demolition.
-- **In plain English:** Lead paint is common in homes built before 1978 (US) and before about 1990 (Canada). Dust from sanding, scraping or chipping windows is the main way kids get poisoned. Lead harms children's brains permanently, and no safe level is known.
+- **In plain English:** Lead paint is likely in homes built before 1978 in the US. In Canada, homes built before 1960 probably have it, and homes built up to 1990 may have it, especially outside. Dust from sanding, scraping or chipping windows is the main way kids get poisoned. Lead harms children's brains permanently, and no safe level is known.
 - **Evidence:** A
 - **Source:** CDC, *Childhood Lead Poisoning Prevention* ; Health Canada, *Lead and health*.
 
@@ -842,7 +846,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** A call to your insurer.
 - **In plain English:** Standard home and renters policies in both countries usually exclude flooding from rivers, storms and overland water. Sewer backup is often a separate add-on too. Find out before the water does.
 - **Evidence:** A
-- **Source:** FEMA, *National Flood Insurance Program* https://www.floodsmart.gov ; Insurance Bureau of Canada, *Flood insurance*.
+- **Source:** FEMA, *National Flood Insurance Program* <https://www.floodsmart.gov> ; Insurance Bureau of Canada, *Flood insurance*.
 
 #### 9. Keep a running inventory of what you own
 - **Cost:** A 10-minute video walk-through of each room once a year.
@@ -855,13 +859,13 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** Often a few dollars a day; check whether a credit card already includes it.
 - **In plain English:** US health plans and Canadian provincial plans pay little or nothing for care abroad. A hospital stay in the US can cost a Canadian tens of thousands of dollars, and the same goes for Americans in many countries.
 - **Evidence:** A
-- **Source:** Government of Canada, *Travel insurance* https://travel.gc.ca/travelling/health-safety/insurance ; US Department of State, *Insurance Coverage Overseas*.
+- **Source:** Government of Canada, *Travel insurance* <https://travel.gc.ca/travelling/health-safety/insurance> ; US Department of State, *Insurance Coverage Overseas*.
 
 #### 2. Register your trip with your government and check its travel advisory
 - **Cost:** Five minutes.
 - **In plain English:** If there's a disaster, unrest or a family emergency, your embassy can find you. Advisories also flag places your travel insurance may not cover.
 - **Evidence:** C
-- **Source:** US: Smart Traveler Enrollment Program (STEP), https://step.state.gov ; Canada: Registration of Canadians Abroad, https://travel.gc.ca/travelling/registration
+- **Source:** US: Smart Traveler Enrollment Program (STEP), <https://step.state.gov> ; Canada: Registration of Canadians Abroad, <https://travel.gc.ca/travelling/registration>
 
 #### 3. Know what your embassy can't do
 - **In plain English:** Consulates can replace a passport, contact family, give a list of local lawyers and visit you in jail. They can't get you out of jail, pay your bills or override local law.
@@ -930,7 +934,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** Ten minutes.
 - **In plain English:** Earnings and debt vary hugely by school and major, even for the same degree. Community college, apprenticeships and the trades (Red Seal in Canada) are often a better return than a four-year degree that doesn't fit.
 - **Evidence:** A
-- **Source:** US Department of Education, *College Scorecard*. https://collegescorecard.ed.gov ; Red Seal Program, https://www.red-seal.ca
+- **Source:** US Department of Education, *College Scorecard*. <https://collegescorecard.ed.gov> ; Red Seal Program, <https://www.red-seal.ca>
 
 #### 2. Know your overtime rules
 - **In plain English:** US: most hourly workers ("non-exempt") get 1.5 times pay after 40 hours a week. Canada: the threshold and rate depend on your province (for example, 44 hours in Ontario).
@@ -939,14 +943,16 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 
 #### 3. (US) Men aged 18 to 25 must register with Selective Service
 - **Cost:** Five minutes online.
-- **In plain English:** Not registering can block federal jobs and some state benefits later.
+- **In plain English:** Not registering can block federal jobs, federal job training and some state benefits later.
 - **Evidence:** A
-- **Source:** Selective Service System, https://www.sss.gov
+- **Source:** Selective Service System, <https://www.sss.gov>
+- **Note:** Registration no longer affects federal student aid, but it can still affect federal jobs and some state benefits. Registration is moving to automatic, so check sss.gov.
 
 #### 4. (US) For federal student loans, use the official tools and never pay a company to "enroll" you in forgiveness
 - **In plain English:** Repayment plans changed in 2025 and are still changing. Everything a paid "debt relief" company does, you can do for free at studentaid.gov.
 - **Evidence:** A
-- **Source:** Federal Student Aid, https://studentaid.gov [verify current plan names]
+- **Source:** Federal Student Aid, <https://studentaid.gov>
+- **Note:** The SAVE plan ended in 2026. New loans taken out after July 1, 2026 can only use the Repayment Assistance Plan (RAP) or a standard plan. Use the Loan Simulator on studentaid.gov to compare.
 
 ---
 
@@ -958,12 +964,12 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** Often $100 to $250 a session; some plans and employee assistance programs (EAPs) cover a few sessions free.
 - **In plain English:** Couples therapy helps roughly 70% of couples improve, and it works better when started earlier.
 - **Evidence:** A
-- **Source:** Lebow JL, et al. (2012). Research on the treatment of couple distress. *Journal of Marital and Family Therapy*. https://doi.org/10.1111/j.1752-0606.2011.00249.x
+- **Source:** Lebow JL, et al. (2012). Research on the treatment of couple distress. *Journal of Marital and Family Therapy*. <https://doi.org/10.1111/j.1752-0606.2011.00249.x>
 
 #### 2. Talk about money before moving in or marrying: debts, credit, spending and who pays what
 - **In plain English:** Money is one of the most common sources of conflict. Living together or marrying can also change your legal rights to each other's property in both countries, sometimes without any paperwork.
 - **Evidence:** C
-- **US / Canada:** In most provinces, couples who live together long enough become "common-law" partners with some legal and tax obligations; Quebec is different. Most US states don't recognize common-law marriage. [verify]
+- **US / Canada:** In most provinces, couples who live together long enough become "common-law" partners with some legal and tax obligations; Quebec is different. Only a handful of US states still let couples form a common-law marriage, and no state creates one just because you lived together for a while. For Canadian taxes, you're common-law after 12 months of living together, or sooner if you have a child together.
 
 #### 3. Think about a prenup or cohabitation agreement if either of you has a business, a home, kids or significant debt
 - **Cost:** Each person should have their own lawyer.
@@ -972,7 +978,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 4. Leave if a partner controls your money, phone or who you see, and get help planning it
 - **In plain English:** Leaving is the most dangerous time in an abusive relationship. A hotline can help plan it safely.
 - **Evidence:** B
-- **Source:** National Domestic Violence Hotline (US), 1-800-799-7233, https://www.thehotline.org ; in Canada, ShelterSafe.ca lists shelters by province.
+- **Source:** National Domestic Violence Hotline (US), 1-800-799-7233, <https://www.thehotline.org> ; in Canada, ShelterSafe.ca lists shelters by province.
 
 ### School-age kids
 
@@ -980,7 +986,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** Free.
 - **In plain English:** In a school-based trial, adding 40 minutes of outdoor activity a day lowered the share of children who became nearsighted over three years (30% vs 40%). Daylight seems to be what helps.
 - **Evidence:** A
-- **Source:** He M, et al. (2015). Effect of Time Spent Outdoors at School on the Development of Myopia Among Children in China: A Randomized Clinical Trial. *JAMA*. https://doi.org/10.1001/jama.2015.10803
+- **Source:** He M, et al. (2015). Effect of Time Spent Outdoors at School on the Development of Myopia Among Children in China: A Randomized Clinical Trial. *JAMA*. <https://doi.org/10.1001/jama.2015.10803>
 
 #### 2. If your child is bullied, write it down and go to the school in writing
 - **In plain English:** Dates, screenshots and names help, and a written report usually triggers the school's policy. Being bullied is linked to anxiety, depression and self-harm, so take it seriously even if it seems minor.
@@ -1013,7 +1019,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 5. You don't have to buy the funeral home's package
 - **In plain English:** In the US, the FTC's Funeral Rule requires itemized prices and lets you pick only what you want. You can bring a casket bought elsewhere.
 - **Evidence:** A
-- **Source:** FTC, *Funeral Rule*. https://consumer.ftc.gov/articles/shopping-funeral-services
+- **Source:** FTC, *Funeral Rule*. <https://consumer.ftc.gov/articles/shopping-funeral-services>
 
 ---
 
@@ -1030,12 +1036,12 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 - **Cost:** Writing one sentence.
 - **In plain English:** If-then plans substantially raise the odds that people follow through on goals.
 - **Evidence:** A
-- **Source:** Gollwitzer PM, Sheeran P (2006). Implementation intentions and goal achievement: a meta-analysis. *Advances in Experimental Social Psychology*. https://doi.org/10.1016/S0065-2601(06)38002-1
+- **Source:** Gollwitzer PM, Sheeran P (2006). Implementation intentions and goal achievement: a meta-analysis. *Advances in Experimental Social Psychology*. <https://doi.org/10.1016/S0065-2601(06)38002-1>
 
 #### 3. Count your commute when you compare jobs or apartments
 - **In plain English:** People routinely underestimate how much a long commute costs them in time and well-being, and a higher salary often doesn't make up for it.
 - **Evidence:** B
-- **Source:** Stutzer A, Frey BS (2008). Stress that doesn't pay: the commuting paradox. *Scandinavian Journal of Economics*. https://doi.org/10.1111/j.1467-9442.2008.00542.x
+- **Source:** Stutzer A, Frey BS (2008). Stress that doesn't pay: the commuting paradox. *Scandinavian Journal of Economics*. <https://doi.org/10.1111/j.1467-9442.2008.00542.x>
 
 #### 4. When stressed, move, go outside, or call a friend before scrolling
 - **Evidence:** B
@@ -1043,7 +1049,7 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 #### 5. After losing someone close, watch the first days for heart symptoms, in yourself and in the other survivors
 - **In plain English:** The risk of a heart attack jumps sharply in the first day after a loved one dies and stays higher for weeks. Chest pain in that window is not "just grief." Call 911.
 - **Evidence:** A
-- **Source:** Mostofsky E, et al. (2012). Risk of acute myocardial infarction after the death of a significant person in one's life. *Circulation*. https://doi.org/10.1161/CIRCULATIONAHA.111.061770
+- **Source:** Mostofsky E, et al. (2012). Risk of acute myocardial infarction after the death of a significant person in one's life. *Circulation*. <https://doi.org/10.1161/CIRCULATIONAHA.111.061770>
 
 #### 6. After a big blow (a death, divorce, layoff or diagnosis), put off irreversible decisions for a few months
 - **In plain English:** Selling the house, cashing out retirement or moving across the country can usually wait.
@@ -1084,14 +1090,14 @@ Credit scores matter far more here than in most countries. Landlords, insurers (
 These aren't about evidence. They're about avoiding friction for people new to North America, and things locals take for granted.
 
 ### 1. Tip 15 to 20% at sit-down restaurants, bars and for taxis, hair and delivery
-- **In plain English:** In much of the US, servers' base pay is legally below minimum wage, so tips are most of their income. Canadian servers earn at least minimum wage but tipping is still expected at similar rates. Tipping at counters and self-checkout screens is optional.
+- **In plain English:** In much of the US, servers' base pay is legally below minimum wage, so tips are most of their income. In most provinces, servers earn at least the regular minimum wage (Quebec has a lower rate for tipped workers), but tipping is still expected at similar rates. Tipping at counters and self-checkout screens is optional.
 - **Evidence:** C
 
 ### 2. Expect sales tax to be added at the register
-- **In plain English:** Shelf prices usually don't include tax. It ranges from 0% (a few US states) to 15% (Atlantic Canada HST).
+- **In plain English:** Shelf prices usually don't include tax. It ranges from 0% (a few US states) to 15% (the HST in most Atlantic provinces).
 - **Evidence:** A
 
-### 3. Right turn on red is allowed after a full stop unless a sign says no; never on the island of Montreal
+### 3. Right turn on red is allowed after a full stop unless a sign says no; never on the island of Montreal or in New York City
 - **Evidence:** A
 - **Source:** State and provincial driver handbooks.
 
