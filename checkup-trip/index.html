@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Prototype: answer a few questions and see a sample checkup-trip package to China, with honest cost notes and a sample itinerary." />
+    <meta name="robots" content="noindex" />
+    <meta name="theme-color" content="#f7fbff" />
+    <title>Checkup Trip Match — Joe</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#guide">Skip to content</a>
+    <header class="guide-header">
+      <a class="back-link" href="/">← Joe</a>
+      <button class="theme-toggle" type="button" aria-label="Use dark theme">Dark</button>
+    </header>
+    <main class="guide" id="guide">
+      <p class="eyebrow">Prototype · sample prices</p>
+      <h1>Find your checkup trip</h1>
+      <p class="lede">
+        Answer a few questions and see which checkup package would fit a trip to China, what it
+        might cost compared with the US, and a sample itinerary.
+      </p>
+      <p class="notice">
+        This is not medical advice and doesn't diagnose anything. Your answers stay in this
+        browser. Nothing is sent or saved. The hospital confirms every real package before
+        it's booked.
+      </p>
+
+      <form id="match-form" novalidate>
+        <fieldset>
+          <legend>Your age</legend>
+          <div class="choices">
+            <label><input type="radio" name="age" value="u40" required /> Under 40</label>
+            <label><input type="radio" name="age" value="40to44" /> 40–44</label>
+            <label><input type="radio" name="age" value="45to49" /> 45–49</label>
+            <label><input type="radio" name="age" value="50to64" /> 50–64</label>
+            <label><input type="radio" name="age" value="65to74" /> 65–74</label>
+            <label><input type="radio" name="age" value="75plus" /> 75+</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Sex <span class="hint">(some screenings differ)</span></legend>
+          <div class="choices">
+            <label><input type="radio" name="sex" value="f" required /> Female</label>
+            <label><input type="radio" name="sex" value="m" /> Male</label>
+            <label><input type="radio" name="sex" value="x" /> Prefer not to say</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Smoking</legend>
+          <div class="choices">
+            <label><input type="radio" name="smoker" value="never" required /> Never smoked</label>
+            <label><input type="radio" name="smoker" value="past" /> Used to smoke</label>
+            <label><input type="radio" name="smoker" value="current" /> Smoke now</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>What do you most want checked? <span class="hint">(pick any)</span></legend>
+          <div class="choices">
+            <label><input type="checkbox" name="focus" value="general" /> A general head-to-toe check</label>
+            <label><input type="checkbox" name="focus" value="heart" /> Heart</label>
+            <label><input type="checkbox" name="focus" value="cancer" /> Cancer screening</label>
+            <label><input type="checkbox" name="focus" value="digestive" /> Stomach and digestion</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Any of these in close family? <span class="hint">(parents, siblings)</span></legend>
+          <div class="choices">
+            <label><input type="checkbox" name="family" value="heart" /> Heart disease</label>
+            <label><input type="checkbox" name="family" value="colon" /> Colon cancer</label>
+            <label><input type="checkbox" name="family" value="breast" /> Breast cancer</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Do any of these apply to you right now?</legend>
+          <p class="hint">
+            Chest pain, shortness of breath, unexplained weight loss, blood in stool or urine, a new
+            lump, pregnancy, or surgery in the last 6 weeks.
+          </p>
+          <div class="choices">
+            <label><input type="radio" name="redflag" value="no" required /> No</label>
+            <label><input type="radio" name="redflag" value="yes" /> Yes</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Your US health insurance</legend>
+          <div class="choices">
+            <label><input type="radio" name="insurance" value="none" required /> No insurance</label>
+            <label><input type="radio" name="insurance" value="hdhp" /> High-deductible plan</label>
+            <label><input type="radio" name="insurance" value="regular" /> Regular employer or ACA plan</label>
+            <label><input type="radio" name="insurance" value="medicare" /> Medicare</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>How long could you travel?</legend>
+          <div class="choices">
+            <label><input type="radio" name="days" value="7" required /> About a week</label>
+            <label><input type="radio" name="days" value="10" /> About 10 days</label>
+            <label><input type="radio" name="days" value="14" /> About 2 weeks</label>
+          </div>
+        </fieldset>
+
+        <p class="form-error" id="form-error" role="alert" hidden></p>
+        <button class="primary" type="submit">See my match</button>
+      </form>
+
+      <section id="result" aria-live="polite" hidden></section>
+    </main>
+    <script type="module" src="/src/checkup-trip/main.ts"></script>
+  </body>
+</html>
