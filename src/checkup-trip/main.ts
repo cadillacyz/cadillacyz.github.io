@@ -78,7 +78,7 @@ function buildItems(a: Answers): Item[] {
   } else if (female && a.age === 'u40' && a.family.has('breast')) {
     items.push({
       name: 'Mammogram',
-      why: 'Family history may mean starting before 40. The doctor confirms.',
+      why: 'Family history may mean starting before 40. The hospital doctor confirms.',
       kind: 'discuss',
     })
   }
@@ -96,7 +96,7 @@ function buildItems(a: Answers): Item[] {
   } else if (a.family.has('colon') && below(a.age, '45to49')) {
     items.push({
       name: 'Colonoscopy',
-      why: 'Family history often means starting before 45. The doctor confirms.',
+      why: 'Family history often means starting before 45. The hospital doctor confirms.',
       kind: 'discuss',
       scope: true,
     })
@@ -106,7 +106,7 @@ function buildItems(a: Answers): Item[] {
   if (smoked && atLeast(a.age, '50to64') && below(a.age, '75plus')) {
     items.push({
       name: 'Low-dose chest CT',
-      why: 'US guidelines: lung screening for people 50–80 with a heavy smoking history. The doctor confirms you qualify.',
+      why: 'US guidelines: lung screening for people 50–80 with a heavy smoking history. The hospital doctor confirms you qualify.',
       kind: 'guideline',
     })
   }
@@ -189,8 +189,8 @@ function buildItinerary(days: Answers['days'], hasScope: boolean): string[] {
   ]
   const free = days - plan.length - 2
   plan.push(...sights.slice(0, Math.max(free, 0)))
-  plan.push('Results consultation with your English report and images. Copies go to your US follow-up doctor.')
-  plan.push('Fly home. Your US doctor reviews your results in a follow-up video call.')
+  plan.push('Results consultation with a hospital doctor. You get an English report and copies of your scans.')
+  plan.push('Fly home. Share your English report and scan files with your own doctor.')
   return plan
 }
 
@@ -262,7 +262,7 @@ function renderResult(a: Answers): string {
         illustrative and vary by hospital and city.
       </p>
       <p class="insurance-note">${esc(INSURANCE_NOTES[a.insurance])}</p>
-      ${older ? '<p class="insurance-note">At 75+, we would also check with your doctor that long-haul travel is comfortable for you.</p>' : ''}
+      ${older ? '<p class="insurance-note">At 75+, please check with your own doctor that long-haul travel is comfortable for you.</p>' : ''}
     </div>
 
     <h2>What it would include</h2>
@@ -275,10 +275,11 @@ function renderResult(a: Answers): string {
       <h2>What happens next</h2>
       <ol>
         <li>A short call to answer your questions. No health records needed yet.</li>
-        <li>A licensed US doctor reviews your history and finalizes the package.</li>
+        <li>The hospital confirms the final package with you before anything is booked.</li>
         <li>We book the hospital, hotel and guide. You just show up.</li>
-        <li>After the trip, a US doctor reviews your results with you.</li>
+        <li>On results day, a hospital doctor goes over everything with you. You leave with an English report and copies of your scans for your own doctor at home.</li>
       </ol>
+      <p class="hint">Your own doctor decides how to use results from abroad. Some may repeat a test, especially a scan.</p>
       ${cta}
       <p class="hint">The interest form asks only for your name, email and state. Never health details.</p>
     </div>`
