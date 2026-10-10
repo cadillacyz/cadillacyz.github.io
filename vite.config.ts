@@ -9,6 +9,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         lifeTips: resolve(__dirname, 'life-tips/index.html'),
+        checkupTrip: resolve(__dirname, 'checkup-trip/index.html'),
       },
     },
   },
